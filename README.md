@@ -95,7 +95,7 @@ https://cdn-images-1.medium.com/max/1600/1*heR0By4G5GbpJ6ZaftJLRQ.gif
 
 <br/>
 
-## :trophy: Git profile Trophies
+<summary><b>:trophy: GitHub Profile Trophies</b></summary>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ishikawa7&layout=compact" alt="Ishikawa7" /></a> </p>
 
