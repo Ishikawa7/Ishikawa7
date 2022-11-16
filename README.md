@@ -15,14 +15,14 @@ https://cdn-images-1.medium.com/max/1600/1*heR0By4G5GbpJ6ZaftJLRQ.gif
 -->
 
 
-<a target="_blank" align="center">
+<a target="_blank" align="right">
   <img align="right" top="1000" height="400" width="500" alt="GIF" src=https://miro.medium.com/max/1224/1*064lT1SXq_6F7uoc00V1fw.gif>
 </a>
 
 <br><br/>
 
-<h1 align="center">Hi, I'm <a href="https://Ishikawa7.github.io/Me.io/" target="blank">David </a></h1>
-<h3 align="center">Datascientist, machine learning engineer, deep learning architecht, research operations analyst </h3>
+<h1 align="left">Hi, I'm <a href="https://Ishikawa7.github.io/Me.io/" target="blank">David </a></h1>
+<h3 align="left">Datascientist, machine learning engineer, deep learning architecht, research operations analyst </h3>
 
 - 🔭 I’m currently working as a datascience consultant
 
