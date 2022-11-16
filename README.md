@@ -10,7 +10,7 @@
 		Datascientist, machine learning engineer, deep learning architecht, research operations analyst
 		</p>
 		<a target="_blank" align="right">
-  		<img align="right" top="1000" height="400" width="500" alt="GIF" src=https://miro.medium.com/max/1224/1*064lT1SXq_6F7uoc00V1fw.gif>
+  		<img align="right" top="1000" height="400" width="500" alt="GIF" src=https://cdn-images-1.medium.com/max/1600/1*bhFifratH9DjKqMBTeQG5A.gif>
 		</a>
 	</h4>
 </h1>										
