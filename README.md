@@ -75,7 +75,7 @@ https://cdn-images-1.medium.com/max/1600/1*heR0By4G5GbpJ6ZaftJLRQ.gif
 <p align="left">
   
   <code><img height="50" src="https://www.devacademy.es/wp-content/uploads/2018/10/python-logo-150x150.png"></code>
-  <code> <img height="50" src="https://www.mycplus.com/mycplus/wp-content/uploads/2020/04/c_logo.png")> </code>
+  <code> <img height="50" src="https://www.mycplus.com/mycplus/wp-content/uploads/2020/04/c_logo-150x150.png")> </code>
   <code> <img height="50" src="https://brandslogos.com/wp-content/uploads/images/large/c-logo.png"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"> </code>
