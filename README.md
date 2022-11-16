@@ -1,4 +1,3 @@
-**WORK IN PROGRESS**
 <!--
 "https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
 https://cdn-images-1.medium.com/max/1600/1*heR0By4G5GbpJ6ZaftJLRQ.gif
@@ -25,24 +24,19 @@ https://cdn-images-1.medium.com/max/1600/1*heR0By4G5GbpJ6ZaftJLRQ.gif
 <h1 align="center">I'm <a href="https://Ishikawa7.github.io/Me.io/" target="blank">David </a></h1>
 <h3 align="center">A passionate </h3>
 
+- 🔭 I’m currently working as a datascience consultant for gruppo Ethos
 
+- 👀 I’m interested in artificial intelligence, math, computer science
 
-
-- 🔭 I’m currently working in 
-
-- 👀 I’m interested in ...
-
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on research/innovative projects
 
 - 🌱 I’m currently Working on 
 
-- 🤝 I’m 
+- 🌱 I’m currently learning: Graph neural network, MLOps, NLP
 
-- 🌱 I’m currently learning 
+- 📝 I regularly read scientific papers and articles on edge technologies in AI
 
-- 📝 I regularly 
-
-- 💬 Ask me about 
+- 💬 Ask me about AI, math, datascience
 
 - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/Resume.pdf" target="blank">Resume</a>
 
