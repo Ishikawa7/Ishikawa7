@@ -16,12 +16,14 @@ https://cdn-images-1.medium.com/max/1600/1*heR0By4G5GbpJ6ZaftJLRQ.gif
 
 <h1 align="left">Hi, I'm <a href="https://Ishikawa7.github.io/Me.io/" target="blank">David </a></h1>
 <h3 align="left">
-	Datascientist, machine learning engineer, deep learning architecht, research operations analyst 
+	<p align="left">
+	Datascientist, machine learning engineer, deep learning architecht, research operations analyst
+	</p>
 	<a target="_blank" align="right">
   		<img align="right" top="1000" height="400" width="500" alt="GIF" src=https://miro.medium.com/max/1224/1*064lT1SXq_6F7uoc00V1fw.gif>
 	</a>
 </h3>
-
+<p align="left">
 - 🔭 I’m currently working as a datascience consultant
 
 - 👀 I’m interested in artificial intelligence, math, computer science
@@ -30,43 +32,20 @@ https://cdn-images-1.medium.com/max/1600/1*heR0By4G5GbpJ6ZaftJLRQ.gif
 
 - 🌱 I’m currently Working on: forecasting models, data pipelines, deployment of AI solutions
 
-- 🌱 I’m currently learning: Graph neural network, MLOps, NLP, R, game theory
+- 🌱 I’m currently learning: Graph neural network, MLOps, NLP, R, Game theory
 
 - 📝 I regularly: read scientific papers and articles on edge technologies in AI, prototype new systems to deal with problems
 
 - 💬 Ask me about: solutions to impact reality thanks to data science and artificial intelligence, make processes more efficient thanks to in-depth knowledge
 
 - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/Resume.pdf" target="blank">Resume</a>
+</p>
 
 ### Reach me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ishikawa7)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='dev' height='40'>](https://user.user.dev/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/user-shaik/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='twitter' height='40'>](https://twitter.com/user)  
-
-<!--
-<p align="center">
-
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
-					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
-				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
-      </div>
-
-</p>
--->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='Github' height='40'>](https://github.com/Ishikawa7)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='Discord' height='40'>](ishikawa7#4156)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='Telegram' height='40'>]()
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='Email' height='40'>](https://twitter.com/user)  
 
 ---
 <br/>
