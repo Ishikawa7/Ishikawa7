@@ -30,9 +30,7 @@
 
 - 💬 Ask me about 
 
-- 📫 How to reach me 
-
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/Resume.pdf" target="blank">Resume</a>
 
 ### Reach me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ishikawa7)
