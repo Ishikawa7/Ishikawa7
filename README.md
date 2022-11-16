@@ -7,7 +7,7 @@
 	<a href="https://Ishikawa7.github.io/Me.io/" target="blank">Davide Grimaldi </a>
 	<h4 align="left">
 		<p align="left"">
-		Datascientist, machine learning engineer, deep learning architecht, research operations analyst
+		_An eclectic data scientist_
 		</p>
 		<a target="_blank" align="right">
   		<img align="right" top="1000" height="400" width="500" alt="GIF" src=https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/ANN-Graph.gif>
