@@ -1,8 +1,8 @@
+**WORK IN PROGRESS**
 <p align = left >
 <a href="https://ibb.co/G30sv9q"><img src="https://i.ibb.co/BKt4VG9/Davide-Grimaldi.jpg" alt="Davide-Grimaldi" border="0"></a>
 </p>
 <p align = right >
-<a href="https://ibb.co/G30sv9q"><img src="https://i.ibb.co/BKt4VG9/Davide-Grimaldi.jpg" alt="Davide-Grimaldi" border="0"></a>
 </p>
 <h1 align="center">I'm <a href="https://Ishikawa7.github.io/Me.io/" target="blank">
 David </a></h1>
