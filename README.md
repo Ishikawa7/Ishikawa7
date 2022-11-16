@@ -21,8 +21,8 @@ https://cdn-images-1.medium.com/max/1600/1*heR0By4G5GbpJ6ZaftJLRQ.gif
 
 <br><br/>
 
-<h1 align="center">I'm <a href="https://Ishikawa7.github.io/Me.io/" target="blank">David </a></h1>
-<h3 align="center">A passionate </h3>
+<h1 align="center">Hi, I'm <a href="https://Ishikawa7.github.io/Me.io/" target="blank">David </a></h1>
+<h3 align="center">Datascientist, machine learning engineer, deep learning architecht, research operations analyst </h3>
 
 - 🔭 I’m currently working as a datascience consultant for gruppo Ethos
 
