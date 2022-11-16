@@ -72,13 +72,14 @@ David </a></h1>
     <a href="https://github.com/Ishikawa7/github-readme-stats"><img alt="Ishikawa7's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ishikawa7&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
+	<!--
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ishikawa7&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Ishikawa7" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 
 ----
-
+-->
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/Ishikawa7"><img alt="Ishikawa7's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ishikawa7&custom_title=Ishikawa7's%20Contribution%20Graph&theme=react-dark" /></a>
