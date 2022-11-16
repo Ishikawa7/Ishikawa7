@@ -4,7 +4,7 @@
 -->
 
 <h1 align="left">
-	<a href="https://Ishikawa7.github.io/Me.io/" target="blank">Davide Grimaldi </a>
+	Davide Grimaldi
 	<h3 align="left">
 		<p align="left"">
 			<i>An eclectic data scientist</i>
