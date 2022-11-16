@@ -16,9 +16,9 @@
 </h1>										
 <p align="left">
 	
-- 🔭 I’m currently working as a datascience and AI consultant
+### - 🔭 I’m currently working as a datascience and AI consultant
 
-- 👀 I’m interested in artificial intelligence, math, computer science
+- 👀 ### I’m interested in artificial intelligence, math, computer science
 
 - 💞️ I’m looking to collaborate on research/innovative projects
 
