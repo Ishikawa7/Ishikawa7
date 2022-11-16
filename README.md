@@ -62,7 +62,7 @@ https://cdn-images-1.medium.com/max/1600/1*heR0By4G5GbpJ6ZaftJLRQ.gif
   <code> <img height="50" src="https://s3-us-west-2.amazonaws.com/oww-files-thumb/7/7e/Latex_logo_bw.gif/200px-Latex_logo_bw.gif"> </code>
   <code> <img height="50" src="https://goering.io/images/tools/bash-logo.png"> </code>
   <code> <img height="50" src="https://logos-download.com/wp-content/uploads/2019/01/JavaScript_Logo-136x136.png"> </code>
-  
+  <code> <img height="50" src="https://www.images.cybrosys.com/images/sc-csharp.png"> </code>
 	
   <hr>
 <p align="center">
@@ -79,7 +79,7 @@ https://cdn-images-1.medium.com/max/1600/1*heR0By4G5GbpJ6ZaftJLRQ.gif
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg"> </code>
-  <code> <img height="50" src="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/092012/tableau_0.png?itok=1gtJdfeq"> </code>
+  <code> <img height="50" src="https://i0.wp.com/www.startupof.me/wp-content/uploads/2020/09/Tableau-logo.jpg?resize=150%2C150&ssl=1"> </code>
   <code> <img height="50" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> </code>
   <code> <img height="50" src="https://www.fortinet.com/content/dam/fortinet/images/icons/alliances/logos/logo-google-cloud.jpg"> </code>
@@ -90,13 +90,13 @@ https://cdn-images-1.medium.com/max/1600/1*heR0By4G5GbpJ6ZaftJLRQ.gif
   <code> <img height="50" src="https://photo.isu.pub/databricks/photo_large.jpg"> </code>
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Spark-logo-192x100px.png/150px-Spark-logo-192x100px.png"></code>
   <code> <img height="50" src="https://i1.wp.com/www.technosap.com/wp-content/uploads/2018/10/selenium-tutorial.jpg?resize=184%2C184&ssl=1"> </code>
-  <code> <img height="50" src="https://helve-blog.com/images/icon/keras.png"> </code>
-	
+  <code> <img height="50" src="https://helve-blog.com/images/icon/keras.png"> </code>	
   <code> <img height="50" src="https://helve-blog.com/images/icon/pyomo.png"> </code>
   <code> <img height="50" src="https://www.wenjiangs.com/wp-content/uploads/2020/12/networkx.jpg"> </code>
   <code> <img height="50" src="https://lh3.googleusercontent.com/-LsYNiQN8LtY/UWiONaNlAvI/AAAAAAAAUEA/RLs4UXg6MWQ/s197/Ubuntu-Logo-1.jpg"> </code>
   <code> <img height="50" src="https://www.arangodb.com/wp-content/uploads/2019/03/Kubernetes-Logo.png"> </code>
   <code><img height="50" src="https://major.io/wp-content/uploads/2014/08/github-150x150.png"></code>
+	
   <code> <img height="50" src="https://i1.wp.com/www.technosap.com/wp-content/uploads/2018/10/selenium-tutorial.jpg?resize=184%2C184&ssl=1"> </code>
   <code> <img height="50" src="https://helve-blog.com/images/icon/keras.png"> </code>
   <hr>
