@@ -16,7 +16,7 @@ https://cdn-images-1.medium.com/max/1600/1*heR0By4G5GbpJ6ZaftJLRQ.gif
 
 <h1 align="left"><a href="https://Ishikawa7.github.io/Me.io/" target="blank">Davide Grimaldi </a></h1>
 <h3 align="left">
-	<p align="left">
+	<p align="left", style="font-style: italic">
 	Datascientist, machine learning engineer, deep learning architecht, research operations analyst
 	</p>
 	<a target="_blank" align="right">
@@ -31,7 +31,7 @@ https://cdn-images-1.medium.com/max/1600/1*heR0By4G5GbpJ6ZaftJLRQ.gif
 
 - 💞️ I’m looking to collaborate on research/innovative projects
 
-- 🌱 I’m currently Working on: forecasting models, data pipelines, deployment of AI solutions
+- 🌱 I’m currently Working on: deep learning models, forecasting, data pipelines, deployment of AI solutions
 
 - 🌱 I’m currently learning: Graph neural network, MLOps, NLP, R, Game theory
 
@@ -81,7 +81,7 @@ https://cdn-images-1.medium.com/max/1600/1*heR0By4G5GbpJ6ZaftJLRQ.gif
   <code> <img height="50" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> </code>
   <hr>
- <p align="center">
+<p align="center">
 
 
 ## 📊 Github Stats
@@ -97,11 +97,14 @@ https://cdn-images-1.medium.com/max/1600/1*heR0By4G5GbpJ6ZaftJLRQ.gif
   <p align="center">
     <a href="https://github.com/Ishikawa7/github-readme-stats"><img alt="Ishikawa7's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ishikawa7&show_icons=true&count_private=true" height="192px"/></a>
 <br/>
-  &nbsp;
 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
+&nbsp;
+
+<summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/Ishikawa7"><img alt="Ishikawa7's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ishikawa7&custom_title=Ishikawa7's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/Ishikawa7">
+	   <img alt="Ishikawa7's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ishikawa7&custom_title=Ishikawa7's%20Contribution%20Graph&theme=react-dark" />
+	</a>
   <br/>
 
 
