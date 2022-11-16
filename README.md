@@ -89,6 +89,9 @@
   <code> <img height="50" src="https://lh3.googleusercontent.com/-LsYNiQN8LtY/UWiONaNlAvI/AAAAAAAAUEA/RLs4UXg6MWQ/s197/Ubuntu-Logo-1.jpg"> </code>
   <code> <img height="50" src="https://www.arangodb.com/wp-content/uploads/2019/03/Kubernetes-Logo.png"> </code>
   <code><img height="50" src="https://major.io/wp-content/uploads/2014/08/github-150x150.png"></code>
+  <code><img height="50" src="https://miro.medium.com/max/432/1*dTrIcbxzVvVqtev-b_US9Q.png"></code>
+  <code><img height="50" src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png"></code>
+  <code><img height="50" src="https://mlflow.org/docs/0.2.1/_static/MLflow-logo-final-black.png"></code>
   <hr>
 <p align="center">
 
