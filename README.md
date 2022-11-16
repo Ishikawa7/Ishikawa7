@@ -20,9 +20,9 @@ https://cdn-images-1.medium.com/max/1600/1*heR0By4G5GbpJ6ZaftJLRQ.gif
 <h3 align="center">A passionate </h3>
 
 
-<p align = right >
+<a target="_blank" align="center">
 	<a href="https://ibb.co/G30sv9q"><img src="https://i.ibb.co/BKt4VG9/Davide-Grimaldi.jpg" alt="Davide-Grimaldi" border="0"></a>
-</p>
+</a>
 
 - 🔭 I’m currently working in 
 
