@@ -60,6 +60,12 @@ David </a></h1>
 ---
 <br/>
 
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=algolia" alt="7oSkaaa" /></p>
+
+<br>
+<br>
+
 ## 📊 Github Stats
 
 
@@ -78,6 +84,10 @@ David </a></h1>
 
 
 <br/>
+
+## :trophy: Git profile Trophies
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ishikawa7&layout=compact&theme=algolia" alt="Ishikawa7" /></a> </p>
 
 <!---
 Ishikawa7/Ishikawa7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
