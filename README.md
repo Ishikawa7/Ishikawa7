@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @Ishikawa7
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 
 ![](https://raw.githubusercontent.com/Ishikawa7/Ishikawa7/main/images/banner.jpg)
 
 <h1 align="center">Hi 👋, I'm <a href="https://Ishikawa7.github.io/Me.io/" target="blank">
@@ -17,6 +11,10 @@ David </a></h1>
 </a>
 
 - 🔭 I’m currently working in 
+
+- 👀 I’m interested in ...
+
+- 💞️ I’m looking to collaborate on ...
 
 - 🌱 I’m currently Working on 
 
