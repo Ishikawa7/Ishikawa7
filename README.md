@@ -3,7 +3,11 @@
 "https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
 https://cdn-images-1.medium.com/max/1600/1*heR0By4G5GbpJ6ZaftJLRQ.gif
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+
+<img align="right" top="500" height="500" width="500" alt="GIF" src=https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/ANN-Graph.gif>
 -->
+
+
 <a target="_blank" align="center">
   <img align="right" top="500" height="500" width="500" alt="GIF" src=https://cdn-images-1.medium.com/max/1600/1*heR0By4G5GbpJ6ZaftJLRQ.gif>
 </a>
@@ -18,7 +22,8 @@ https://cdn-images-1.medium.com/max/1600/1*heR0By4G5GbpJ6ZaftJLRQ.gif
 <h3 align="center">A passionate </h3>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="500" width="500" alt="GIF" src=https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/ANN-Graph.gif>
+  
+	<a href="https://ibb.co/G30sv9q"><img src="https://i.ibb.co/BKt4VG9/Davide-Grimaldi.jpg" alt="Davide-Grimaldi" border="0"></a>
 </a>
 
 - 🔭 I’m currently working in 
