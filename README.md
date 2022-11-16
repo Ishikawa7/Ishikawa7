@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 
-<h1 align="center">Hi 👋, I'm <a href="https://ishikawa7.github.io/Me.io/" target="blank">
+<h1 align="center">Hi 👋, I'm <a href="https://Ishikawa7.github.io/Me.io/" target="blank">
 Saurabh</a></h1>
 <h3 align="center">A passionate </h3>
 
