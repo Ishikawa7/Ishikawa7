@@ -14,7 +14,7 @@ https://cdn-images-1.medium.com/max/1600/1*heR0By4G5GbpJ6ZaftJLRQ.gif
 </a>
 -->
 
-<h1 align="left">Hi, I'm <a href="https://Ishikawa7.github.io/Me.io/" target="blank">David </a></h1>
+<h1 align="left"><a href="https://Ishikawa7.github.io/Me.io/" target="blank">Davide Grimaldi </a></h1>
 <h3 align="left">
 	<p align="left">
 	Datascientist, machine learning engineer, deep learning architecht, research operations analyst
@@ -24,6 +24,7 @@ https://cdn-images-1.medium.com/max/1600/1*heR0By4G5GbpJ6ZaftJLRQ.gif
 	</a>
 </h3>
 <p align="left">
+	
 - 🔭 I’m currently working as a datascience consultant
 
 - 👀 I’m interested in artificial intelligence, math, computer science
@@ -55,22 +56,15 @@ https://cdn-images-1.medium.com/max/1600/1*heR0By4G5GbpJ6ZaftJLRQ.gif
   
   <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"></code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"> </code>
   <code> <img height="50" src="https://matplotlib.org/2.2.5/_images/sphx_glr_logos2_001.png" width='100'> </code>
   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"> </code>
   <code> <img height="50" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> </code>
@@ -105,7 +99,3 @@ https://cdn-images-1.medium.com/max/1600/1*heR0By4G5GbpJ6ZaftJLRQ.gif
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ishikawa7&layout=compact" alt="Ishikawa7" /></a> </p>
 
-<!---
-Ishikawa7/Ishikawa7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
