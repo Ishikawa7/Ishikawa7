@@ -1,28 +1,19 @@
 <!--
-"https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
-https://cdn-images-1.medium.com/max/1600/1*heR0By4G5GbpJ6ZaftJLRQ.gif
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
-
-<img align="right" top="500" height="500" width="500" alt="GIF" src=https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/ANN-Graph.gif>
-
-<a target="_blank" align="center">
-  
-</a>
-
-<a target="_blank" align="center">
-	<a href="https://ibb.co/G30sv9q"><img src="https://i.ibb.co/BKt4VG9/Davide-Grimaldi.jpg" alt="Davide-Grimaldi" border="0"></a>
-</a>
+<p align="left"">
+</p>
 -->
 
-<h1 align="left"><a href="https://Ishikawa7.github.io/Me.io/" target="blank">Davide Grimaldi </a></h1>
-<h3 align="left">
-	<p align="left"">
-	_Datascientist, machine learning engineer, deep learning architecht, research operations analyst_
-	</p>
-	<a target="_blank" align="right">
+<h1 align="left">
+	<a href="https://Ishikawa7.github.io/Me.io/" target="blank">Davide Grimaldi </a>
+	<h3 align="left">
+		
+		_Datascientist, machine learning engineer, deep learning architecht, research operations analyst_
+		
+		<a target="_blank" align="right">
   		<img align="right" top="1000" height="400" width="500" alt="GIF" src=https://miro.medium.com/max/1224/1*064lT1SXq_6F7uoc00V1fw.gif>
-	</a>
-</h3>
+		</a>
+	</h3>
+</h1>										
 <p align="left">
 	
 - 🔭 I’m currently working as a datascience and AI consultant
