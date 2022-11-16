@@ -1,4 +1,7 @@
 **WORK IN PROGRESS**
+<!--
+"https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
+-->
 <p align = left >
 	<a href="https://ibb.co/G30sv9q"><img src="https://i.ibb.co/BKt4VG9/Davide-Grimaldi.jpg" alt="Davide-Grimaldi" border="0"></a>
 </p>
@@ -11,7 +14,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src=https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/ANN-Graph.gif>
 </a>
 
 - 🔭 I’m currently working in 
