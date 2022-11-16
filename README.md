@@ -111,7 +111,7 @@ David </a></h1>
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/Ishikawa7"><img alt="Ishikawa7's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ishikawa7&custom_title=Ishikawa7's%20Contribution%20Graph&theme=react-light" /></a>
+   <a href="https://github.com/Ishikawa7"><img alt="Ishikawa7's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ishikawa7&custom_title=Ishikawa7's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 
