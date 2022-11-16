@@ -1,5 +1,5 @@
 ![](https://raw.githubusercontent.com/Ishikawa7/Ishikawa7/main/images/banner.jpg)
-<p align = center ><img src="[https://i.imgur.com/x6qU1kR.png](https://ibb.co/G30sv9q)"> </p>
+<p align = center ><img src="https://ibb.co/G30sv9q"> </p>
 
 <h1 align="center">Hi 👋, I'm <a href="https://Ishikawa7.github.io/Me.io/" target="blank">
 David </a></h1>
