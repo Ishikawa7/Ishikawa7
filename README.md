@@ -22,7 +22,7 @@
 
 - 💞️ I’m looking to collaborate on research/innovative projects
 
-- 🌱 I’m currently Working on: deep learning models, forecasting, data pipelines, deployment of AI solutions, optimization problems
+- 💻 I’m currently Working on: deep learning models, forecasting, data pipelines, deployment of AI solutions, optimization problems
 
 - 🌱 I’m currently learning: Graph neural network, MLOps, NLP, R, Game theory
 
@@ -59,7 +59,7 @@
   <hr>
 <p align="center">
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Libraries and tools***
 <p align="left">
   <code> <img height="50" src="https://images.techhive.com/images/article/2014/11/git-logo-100533164-small.jpg"> </code>
   <code> <img height="50" src="https://www.softzone.es/app/uploads-softzone.es/2017/05/Logo-Microsoft-Visual-Studio-Code-150x150.png"> </code>
@@ -118,7 +118,7 @@
 
 <br/>
 
-<summary><b>:trophy: GitHub Profile Trophies</b></summary>
+<summary><b>:trophy: Profile Trophies</b></summary>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ishikawa7&layout=compact" alt="Ishikawa7" /></a> </p>
 
