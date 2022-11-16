@@ -1,4 +1,9 @@
 **WORK IN PROGRESS**
+<p align = right >
+	<a href="https://ibb.co/G30sv9q">
+		<img align="center" top="500" height="500" width="1000" src="https://i.ibb.co/BKt4VG9/Davide-Grimaldi.jpg" alt="Davide-Grimaldi" border="0">
+	</a>
+</p>
 <!--
 "https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
 https://cdn-images-1.medium.com/max/1600/1*heR0By4G5GbpJ6ZaftJLRQ.gif
