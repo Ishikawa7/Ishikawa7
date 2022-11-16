@@ -59,13 +59,16 @@ https://cdn-images-1.medium.com/max/1600/1*heR0By4G5GbpJ6ZaftJLRQ.gif
   <code> <img height="50" src="https://brandslogos.com/wp-content/uploads/images/large/c-logo.png"> </code>
   <code> <img height="50" src="https://code.gestiolex.it/wp-content/uploads/2016/09/SQL_logo1-300x300-150x150.png"> </code>
   <code> <img height="50" src="https://media.if-not-true-then-false.com/2010/02/java-logo.png"> </code>
+  <code> <img height="50" src="https://s3-us-west-2.amazonaws.com/oww-files-thumb/7/7e/Latex_logo_bw.gif/200px-Latex_logo_bw.gif"> </code>
+  <code> <img height="50" src="https://goering.io/images/tools/bash-logo.png"> </code>
   <code> <img height="50" src="https://logos-download.com/wp-content/uploads/2019/01/JavaScript_Logo-136x136.png"> </code>
+  
+	
   <hr>
 <p align="center">
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools***
 <p align="left">
-  
   <code> <img height="50" src="https://images.techhive.com/images/article/2014/11/git-logo-100533164-small.jpg"> </code>
   <code> <img height="50" src="https://www.softzone.es/app/uploads-softzone.es/2017/05/Logo-Microsoft-Visual-Studio-Code-150x150.png"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
@@ -80,6 +83,22 @@ https://cdn-images-1.medium.com/max/1600/1*heR0By4G5GbpJ6ZaftJLRQ.gif
   <code> <img height="50" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> </code>
   <code> <img height="50" src="https://www.fortinet.com/content/dam/fortinet/images/icons/alliances/logos/logo-google-cloud.jpg"> </code>
+  <code> <img height="50" src="https://ekhuftai.files.wordpress.com/2020/12/131930211_211300827251462_3976120775449948937_n.jpg"> </code>
+  <code> <img height="50" src="https://xdeb.net/images/django_logo.png"> </code>
+  <code> <img height="50" src="https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2009/05/068-wolfram-alpha-logo.png"> </code>
+  <code> <img height="50" src="https://i0.wp.com/arstech.net/wp-content/uploads/2019/08/docker.png?w=180&ssl=1"> </code>
+  <code> <img height="50" src="https://photo.isu.pub/databricks/photo_large.jpg"> </code>
+  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Spark-logo-192x100px.png/150px-Spark-logo-192x100px.png"></code>
+  <code> <img height="50" src="https://i1.wp.com/www.technosap.com/wp-content/uploads/2018/10/selenium-tutorial.jpg?resize=184%2C184&ssl=1"> </code>
+  <code> <img height="50" src="https://helve-blog.com/images/icon/keras.png"> </code>
+	
+  <code> <img height="50" src="https://helve-blog.com/images/icon/pyomo.png"> </code>
+  <code> <img height="50" src="https://www.wenjiangs.com/wp-content/uploads/2020/12/networkx.jpg"> </code>
+  <code> <img height="50" src="https://lh3.googleusercontent.com/-LsYNiQN8LtY/UWiONaNlAvI/AAAAAAAAUEA/RLs4UXg6MWQ/s197/Ubuntu-Logo-1.jpg"> </code>
+  <code> <img height="50" src="https://www.arangodb.com/wp-content/uploads/2019/03/Kubernetes-Logo.png"> </code>
+  <code><img height="50" src="https://major.io/wp-content/uploads/2014/08/github-150x150.png"></code>
+  <code> <img height="50" src="https://i1.wp.com/www.technosap.com/wp-content/uploads/2018/10/selenium-tutorial.jpg?resize=184%2C184&ssl=1"> </code>
+  <code> <img height="50" src="https://helve-blog.com/images/icon/keras.png"> </code>
   <hr>
 <p align="center">
 
