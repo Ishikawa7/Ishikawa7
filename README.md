@@ -94,18 +94,13 @@ David </a></h1>
   <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
 
-## 🔥 Streak Stats
+## 📊 Github Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishikawa7&count_private=true" alt="Ishikawa7" /></p>
 
 <br>
 <br>
-
-## 📊 Github Stats
-
-
-
   <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
+<br/>
   <p align="center">
     <a href="https://github.com/Ishikawa7/github-readme-stats"><img alt="Ishikawa7's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ishikawa7&show_icons=true&count_private=true" height="192px"/></a>
 <br/>
