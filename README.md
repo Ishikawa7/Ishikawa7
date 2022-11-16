@@ -16,7 +16,7 @@ https://cdn-images-1.medium.com/max/1600/1*heR0By4G5GbpJ6ZaftJLRQ.gif
 
 <h1 align="left"><a href="https://Ishikawa7.github.io/Me.io/" target="blank">Davide Grimaldi </a></h1>
 <h3 align="left">
-	<p align="left", style="font-style: italic">
+	<p align="left", style="font-style: italic;">
 	Datascientist, machine learning engineer, deep learning architecht, research operations analyst
 	</p>
 	<a target="_blank" align="right">
@@ -25,7 +25,7 @@ https://cdn-images-1.medium.com/max/1600/1*heR0By4G5GbpJ6ZaftJLRQ.gif
 </h3>
 <p align="left">
 	
-- 🔭 I’m currently working as a datascience consultant
+- 🔭 _I’m currently working as a datascience and AI consultant_
 
 - 👀 I’m interested in artificial intelligence, math, computer science
 
@@ -58,6 +58,7 @@ https://cdn-images-1.medium.com/max/1600/1*heR0By4G5GbpJ6ZaftJLRQ.gif
   <code> <img height="50" src="https://www.mycplus.com/mycplus/wp-content/uploads/2020/04/c_logo-150x150.png"> </code>
   <code> <img height="50" src="https://brandslogos.com/wp-content/uploads/images/large/c-logo.png"> </code>
   <code> <img height="50" src="https://code.gestiolex.it/wp-content/uploads/2016/09/SQL_logo1-300x300-150x150.png"> </code>
+	
   <code> <img height="50" src="https://media.if-not-true-then-false.com/2010/02/java-logo.png"> </code>
   <code> <img height="50" src="https://s3-us-west-2.amazonaws.com/oww-files-thumb/7/7e/Latex_logo_bw.gif/200px-Latex_logo_bw.gif"> </code>
   <code> <img height="50" src="https://goering.io/images/tools/bash-logo.png"> </code>
@@ -96,9 +97,6 @@ https://cdn-images-1.medium.com/max/1600/1*heR0By4G5GbpJ6ZaftJLRQ.gif
   <code> <img height="50" src="https://lh3.googleusercontent.com/-LsYNiQN8LtY/UWiONaNlAvI/AAAAAAAAUEA/RLs4UXg6MWQ/s197/Ubuntu-Logo-1.jpg"> </code>
   <code> <img height="50" src="https://www.arangodb.com/wp-content/uploads/2019/03/Kubernetes-Logo.png"> </code>
   <code><img height="50" src="https://major.io/wp-content/uploads/2014/08/github-150x150.png"></code>
-	
-  <code> <img height="50" src="https://i1.wp.com/www.technosap.com/wp-content/uploads/2018/10/selenium-tutorial.jpg?resize=184%2C184&ssl=1"> </code>
-  <code> <img height="50" src="https://helve-blog.com/images/icon/keras.png"> </code>
   <hr>
 <p align="center">
 
