@@ -1,7 +1,7 @@
 ![](https://raw.githubusercontent.com/Ishikawa7/Ishikawa7/main/images/banner.jpg)
-<p align = center ><img src="https://ibb.co/G30sv9q"></p>
+<p align = center >
 <a href="https://ibb.co/G30sv9q"><img src="https://i.ibb.co/BKt4VG9/Davide-Grimaldi.jpg" alt="Davide-Grimaldi" border="0"></a>
-
+</p>
 <h1 align="center">Hi 👋, I'm <a href="https://Ishikawa7.github.io/Me.io/" target="blank">
 David </a></h1>
 <h3 align="center">A passionate </h3>
