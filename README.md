@@ -92,15 +92,15 @@
 <p align="center">
 
 
-## 📊 Github Stats
+## Github Stats
 <br>
-  <summary><b>💻 Streak stats</b></summary>
+  <summary><b>:fire: Streak</b></summary>
 <br/>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishikawa7&count_private=true" alt="Ishikawa7" /></p>
 
 <br>
 <br>
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <summary><b>💻 Profile</b></summary>
 <br/>
   <p align="center">
     <a href="https://github.com/Ishikawa7/github-readme-stats"><img alt="Ishikawa7's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ishikawa7&show_icons=true&count_private=true" height="192px"/></a>
@@ -108,7 +108,7 @@
 
 &nbsp;
 
-<summary><b>⚡ Recent GitHub Activity</b></summary>
+<summary><b>⚡ Recent Activity</b></summary>
   <br/>
    <a href="https://github.com/Ishikawa7">
 	   <img alt="Ishikawa7's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ishikawa7&custom_title=Ishikawa7's%20Contribution%20Graph&theme=react-dark" />
