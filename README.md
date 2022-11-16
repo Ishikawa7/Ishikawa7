@@ -5,14 +5,14 @@
 
 <h1 align="left">
 	<a href="https://Ishikawa7.github.io/Me.io/" target="blank">Davide Grimaldi </a>
-	<h4 align="left">
+	<h3 align="left">
 		<p align="left"">
-		_An eclectic data scientist_
+			<i>An eclectic data scientist</i>
 		</p>
 		<a target="_blank" align="right">
   		<img align="right" top="1000" height="400" width="500" alt="GIF" src=https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/ANN-Graph.gif>
 		</a>
-	</h4>
+	</h3>
 </h1>										
 <p align="left">
 	
