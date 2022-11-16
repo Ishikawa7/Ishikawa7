@@ -16,8 +16,8 @@ https://cdn-images-1.medium.com/max/1600/1*heR0By4G5GbpJ6ZaftJLRQ.gif
 
 <h1 align="left"><a href="https://Ishikawa7.github.io/Me.io/" target="blank">Davide Grimaldi </a></h1>
 <h3 align="left">
-	<p align="left", style="font-style: italic;">
-	Datascientist, machine learning engineer, deep learning architecht, research operations analyst
+	<p align="left"">
+	_Datascientist, machine learning engineer, deep learning architecht, research operations analyst_
 	</p>
 	<a target="_blank" align="right">
   		<img align="right" top="1000" height="400" width="500" alt="GIF" src=https://miro.medium.com/max/1224/1*064lT1SXq_6F7uoc00V1fw.gif>
@@ -25,13 +25,13 @@ https://cdn-images-1.medium.com/max/1600/1*heR0By4G5GbpJ6ZaftJLRQ.gif
 </h3>
 <p align="left">
 	
-- 🔭 _I’m currently working as a datascience and AI consultant_
+- 🔭 I’m currently working as a datascience and AI consultant
 
 - 👀 I’m interested in artificial intelligence, math, computer science
 
 - 💞️ I’m looking to collaborate on research/innovative projects
 
-- 🌱 I’m currently Working on: deep learning models, forecasting, data pipelines, deployment of AI solutions
+- 🌱 I’m currently Working on: deep learning models, forecasting, data pipelines, deployment of AI solutions, optimization problems
 
 - 🌱 I’m currently learning: Graph neural network, MLOps, NLP, R, Game theory
 
