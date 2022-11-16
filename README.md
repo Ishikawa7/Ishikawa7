@@ -24,19 +24,19 @@ https://cdn-images-1.medium.com/max/1600/1*heR0By4G5GbpJ6ZaftJLRQ.gif
 <h1 align="center">Hi, I'm <a href="https://Ishikawa7.github.io/Me.io/" target="blank">David </a></h1>
 <h3 align="center">Datascientist, machine learning engineer, deep learning architecht, research operations analyst </h3>
 
-- 🔭 I’m currently working as a datascience consultant for gruppo Ethos
+- 🔭 I’m currently working as a datascience consultant
 
 - 👀 I’m interested in artificial intelligence, math, computer science
 
 - 💞️ I’m looking to collaborate on research/innovative projects
 
-- 🌱 I’m currently Working on 
+- 🌱 I’m currently Working on: forecasting models, data pipelines, deployment of AI solutions
 
-- 🌱 I’m currently learning: Graph neural network, MLOps, NLP
+- 🌱 I’m currently learning: Graph neural network, MLOps, NLP, R, game theory
 
-- 📝 I regularly read scientific papers and articles on edge technologies in AI
+- 📝 I regularly: read scientific papers and articles on edge technologies in AI, prototype new systems to deal with problems
 
-- 💬 Ask me about AI, math, datascience
+- 💬 Ask me about: solutions to impact reality thanks to data science and artificial intelligence, make processes more efficient thanks to in-depth knowledge
 
 - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/Resume.pdf" target="blank">Resume</a>
 
