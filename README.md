@@ -16,21 +16,21 @@
 </h1>										
 <p align="left">
 	
-#### - 🔭 I’m currently working as a datascience and AI consultant
+#### 🔭 I’m currently working as a datascience and AI consultant
 
-#### - 👀 I’m interested in artificial intelligence, math, computer science
+#### 👀 I’m interested in artificial intelligence, math, computer science
 
-#### - 💞️ I’m looking to collaborate on research/innovative projects
+#### 💞️ I’m looking to collaborate on research/innovative projects
 
-#### - 💻 I’m currently Working on: deep learning models, forecasting, data pipelines, deployment of AI solutions, optimization problems
+#### 💻 I’m currently Working on: deep learning models, forecasting, data pipelines, deployment of AI solutions, optimization problems
 
-#### - 🌱 I’m currently learning: Graph neural network, MLOps, NLP, R, Game theory
+#### 🌱 I’m currently learning: Graph neural network, MLOps, NLP, R, Game theory
 
-#### - 📝 I regularly: read scientific papers and articles on edge technologies in AI, prototype new systems to deal with problems
+#### 📝 I regularly: read scientific papers and articles on edge technologies in AI, prototype new systems to deal with problems
 
-#### - 💬 Ask me about: solutions to impact reality thanks to data science and artificial intelligence, make processes more efficient thanks to in-depth knowledge
+#### 💬 Ask me about: solutions to impact reality thanks to data science and artificial intelligence, make processes more efficient thanks to in-depth knowledge
 
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/Resume.pdf" target="blank">Resume</a>
+#### - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/Resume.pdf" target="blank">Resume</a>
 </p>
 
 ### Reach me
