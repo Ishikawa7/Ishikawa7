@@ -13,7 +13,7 @@ https://cdn-images-1.medium.com/max/1600/1*heR0By4G5GbpJ6ZaftJLRQ.gif
 
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="500" width="1000" alt="GIF" src=https://community.alteryx.com/t5/image/serverpage/image-id/42339i8BA3F2CCCEDE7458?v=1.0>
+  <img align="right" top="200" height="400" width="1000" alt="GIF" src=https://community.alteryx.com/t5/image/serverpage/image-id/42339i8BA3F2CCCEDE7458?v=1.0>
 </a>
 
 <h1 align="center">I'm <a href="https://Ishikawa7.github.io/Me.io/" target="blank">David </a></h1>
