@@ -7,7 +7,7 @@
 	Davide Grimaldi
 	<h2 align="left">
 		<p align="left"">
-			<i>An eclectic data scientist</i>
+			<i>Eclectic data scientist</i>
 		</p>
 		<a target="_blank" align="right">
   		<img align="right" top="1000" height="400" width="500" alt="GIF" src=https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/ANN-Graph.gif>
