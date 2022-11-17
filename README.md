@@ -92,6 +92,8 @@
   <code><img height="50" src="https://miro.medium.com/max/432/1*dTrIcbxzVvVqtev-b_US9Q.png"></code>
   <code><img height="50" src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png"></code>
   <code><img height="50" src="https://mlflow.org/docs/0.2.1/_static/MLflow-logo-final-black.png"></code>
+  <code><img height="50" src="http://www.convergent7.com/wp-content/uploads/Google_Data_Studio.png"></code>
+												
   <hr>
 <p align="center">
 
