@@ -55,7 +55,7 @@ I'm an eclectic Data scientist that spans throughout the entire data science pro
 	
 ### Key words
 	
-<a>Machine learning</a>, <a>Deep learning</a>, <a>Operation Research</a>, <a>Decision Science</a>, <a>Programming</a>, <a>Anomalies detection</a>, <a>Time series analysis</a>, <a>Genetic Algorithms</a>, <a>Heuristic algorithms</a>, <a>Network Analysis</a>, <a>Segmentation</a>, <a>Optimization</a>, <a>Forecasting</a>, <a>Cloud</a>, <a>Datascience</a>, <a>MLOps</a>, <a>Applied Math</a>
+__Machine learning, Deep learning, Operation Research, Decision Science, Programming, Anomalies detection, Time series analysis, Genetic Algorithms, Heuristic algorithms, Network Analysis, Segmentation, Optimization, Forecasting, Cloud, Datascience, MLOps, Applied Math__
 	
 
 
