@@ -7,7 +7,7 @@
 	Davide Grimaldi
 	<h2 align="left">
 		<p align="left"">
-			<i>Eclectic mind</i>
+			<i></i>
 		</p>
 		<a target="_blank" align="right">
   		<img align="right" top="1000" height="400" width="500" alt="GIF" src=https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/ANN-Graph.gif>
@@ -49,7 +49,7 @@
 <h3 align="left">
 <p align="left">
 	
-I'm an eclectic Data scientist capable of managing data throughout the entire data science process, from raw data management, to modeling, to product release. I am inclined to prototype new solutions to give insight into any complex problem. I prioritize collaboration with other professionals to create information that is useful and effective, but also as accurate and detailed as possible. I'm knowledge-oriented through operational approach.
+I'm an eclectic Data scientist that spans throughout the entire data science process, from raw data management, to modeling, to product release. I am inclined to prototype new solutions to give insight into any complex problem. I prioritize collaboration with other professionals to create information that is useful and effective, but also as accurate and detailed as possible. I'm knowledge-oriented through operational approach.
 </p>
 </h3>
 	
