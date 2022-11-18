@@ -113,8 +113,8 @@ __Machine learning, Deep learning, Operation Research, Decision Science, Program
   <code><img height="50" src="https://mlflow.org/docs/0.2.1/_static/MLflow-logo-final-black.png"></code>
   <code><img height="50" src="https://www.knewledge.com/wp-content/uploads/2019/08/google-data-studio-logo.png"></code>
   <code><img height="50" src="https://www.androidauthority.com/wp-content/uploads/2017/03/kaggle-440x200.png"></code>
-													       
-												
+  <code><img height="50" src="https://dataschool.com/assets/images/sql-optimization/bigquery/bigQuery.png"></code>					
+	
   <hr>
 <p align="center">
 
