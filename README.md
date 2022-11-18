@@ -47,12 +47,23 @@
 		<p align="left"">
 			<i>About me</i>
 		</p>
-</h2>														       
+</h2>
+	
+<h3 align="left">
 <p align="left">
 	
-I'm an eclectic Data scientist capable of managing data throughout the entire data science process, from raw data management, to modeling, to product release. I am inclined to prototype new solutions to give insight into any complex problem. I prioritize collaboration with other professionals to create information that is useful and effective, but also as accurate and detailed as possible.
+I'm an eclectic Data scientist capable of managing data throughout the entire data science process, from raw data management, to modeling, to product release. I am inclined to prototype new solutions to give insight into any complex problem. I prioritize collaboration with other professionals to create information that is useful and effective, but also as accurate and detailed as possible. I'm knowledge-oriented through operational approach.
+
+## Fields of interest
+	
+Machine learning
+Deep learning
+Operation Research
+Decision Science
+	
 
 </p>
+</h3>
 ---
 <br/>
 
