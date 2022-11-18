@@ -39,8 +39,7 @@
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='Telegram' height='40'> @montag1984 |
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='Email' height='40'> davidegrimaldi92@gmai.com |
 													   
----
-<br/>													       
+---												       
 <h2 align="left">
 		<p align="left"">
 			<i>About me</i>
