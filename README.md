@@ -49,18 +49,18 @@
 		</p>
 </h2>
 	
-<h4 align="left">
+<h3 align="left">
 <p align="left">
 	
 I'm an eclectic Data scientist capable of managing data throughout the entire data science process, from raw data management, to modeling, to product release. I am inclined to prototype new solutions to give insight into any complex problem. I prioritize collaboration with other professionals to create information that is useful and effective, but also as accurate and detailed as possible. I'm knowledge-oriented through operational approach.
 
 ### Key words
 	
-_Machine learning, Deep learning, Operation Research, Decision Science, Programming, Anomalies detection, Time series analysis, Genetic Algorithms, Heuristic algorithms, Network Analysis_
+	_<a>Machine learning</a>, <a>Deep learning</a>, <a>Operation Research</a>, <a>Decision Science</a>, <a>Programming</a>, <a>Anomalies detection</a>, <a>Time series analysis</a>, <a>Genetic Algorithms</a>, <a>Heuristic algorithms</a>, <a>Network Analysis</a>, <a>Segmentation</a>, <a>Optimization</a>, <a>Forecasting</a>, <a>Cloud</a>, <a>Datascience</a>, <a>MLOps</a>, <a>Applied Math</a>_
 	
 
 </p>
-</h4>
+</h3>
 ---
 <br/>
 
