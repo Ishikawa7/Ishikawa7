@@ -28,7 +28,7 @@
 
 ### 📝 I regularly: read scientific papers and articles on edge technologies in AI, prototype new systems to deal with problems
 
-### 💬 Ask me about: solutions to impact reality thanks to data science and artificial intelligence, make processes more efficient thanks to in-depth knowledge
+### 💬 Ask me about: solutions to impact reality thanks to data science and artificial intelligence, make processes more efficient through optimization algorithms
 
 ### - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/Resume.pdf" target="blank">Resume</a>
 </p>
