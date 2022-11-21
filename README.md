@@ -96,7 +96,6 @@ __Machine learning, Deep learning, Operation Research, Decision Science, Program
   <code> <img height="50" src="https://www.wenjiangs.com/wp-content/uploads/2020/12/networkx.jpg"> </code>
   <code> <img height="50" src="https://ekhuftai.files.wordpress.com/2020/12/131930211_211300827251462_3976120775449948937_n.jpg"> </code>
   <code> <img height="50" src="https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2009/05/068-wolfram-alpha-logo.png"> </code>
-  
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"> </code>
   <code> <img height="50" src="https://xdeb.net/images/django_logo.png"> </code>
