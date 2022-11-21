@@ -81,19 +81,12 @@ __Machine learning, Deep learning, Operation Research, Decision Science, Program
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Libraries and tools***
 <p align="left">
-  <code> <img height="50" src="https://images.techhive.com/images/article/2014/11/git-logo-100533164-small.jpg"> </code>
-  <code> <img height="50" src="https://www.softzone.es/app/uploads-softzone.es/2017/05/Logo-Microsoft-Visual-Studio-Code-150x150.png"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
-  <code><img height="50" src="https://major.io/wp-content/uploads/2014/08/github-150x150.png"></code>
-  <code><img height="50" src="https://www.androidauthority.com/wp-content/uploads/2017/03/kaggle-440x200.png"></code>
-  <code> <img height="50" src="https://lh3.googleusercontent.com/-LsYNiQN8LtY/UWiONaNlAvI/AAAAAAAAUEA/RLs4UXg6MWQ/s197/Ubuntu-Logo-1.jpg"> </code>
-	
   <code> <img height="50" src="https://matplotlib.org/2.2.5/_images/sphx_glr_logos2_001.png" width='100'> </code>
   <code><img height="50" src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png"></code>
-  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png"> </code>
   <code> <img height="50" src="https://miro.medium.com/fit/c/160/160/1*LU8DrYH0werAkSh2K9VPDg.png"> </code>
   <code> <img height="50" src="https://i0.wp.com/www.startupof.me/wp-content/uploads/2020/09/Tableau-logo.jpg?resize=150%2C150&ssl=1"> </code>
   <code><img height="50" src="https://www.knewledge.com/wp-content/uploads/2019/08/google-data-studio-logo.png"></code>
+  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg"> </code>
   <code> <img height="50" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png"> </code>
@@ -116,6 +109,13 @@ __Machine learning, Deep learning, Operation Research, Decision Science, Program
   <code><img height="50" src="https://dataschool.com/assets/images/sql-optimization/bigquery/bigQuery.png"></code>
   <code> <img height="50" src="https://photo.isu.pub/databricks/photo_large.jpg"> </code>
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Spark-logo-192x100px.png/150px-Spark-logo-192x100px.png"></code>
+
+  <code> <img height="50" src="https://images.techhive.com/images/article/2014/11/git-logo-100533164-small.jpg"> </code>
+  <code> <img height="50" src="https://www.softzone.es/app/uploads-softzone.es/2017/05/Logo-Microsoft-Visual-Studio-Code-150x150.png"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
+  <code><img height="50" src="https://major.io/wp-content/uploads/2014/08/github-150x150.png"></code>
+  <code><img height="50" src="https://www.androidauthority.com/wp-content/uploads/2017/03/kaggle-440x200.png"></code>
+  <code> <img height="50" src="https://lh3.googleusercontent.com/-LsYNiQN8LtY/UWiONaNlAvI/AAAAAAAAUEA/RLs4UXg6MWQ/s197/Ubuntu-Logo-1.jpg"> </code>
 	
   <hr>
 <p align="center">
