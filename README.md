@@ -83,17 +83,17 @@ Machine learning, Deep learning, Operation Research, Decision Science, Programmi
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Libraries and tools***
 <p align="left">
-  <code> <img height="50" src="https://matplotlib.org/2.2.5/_images/sphx_glr_logos2_001.png" width='100'> </code>
-  <code><img height="50" src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png"></code>
-  <code> <img height="50" src="https://miro.medium.com/fit/c/160/160/1*LU8DrYH0werAkSh2K9VPDg.png"> </code>
-  <code> <img height="50" src="https://i0.wp.com/www.startupof.me/wp-content/uploads/2020/09/Tableau-logo.jpg?resize=150%2C150&ssl=1"> </code>
-  <code><img height="50" src="https://www.knewledge.com/wp-content/uploads/2019/08/google-data-studio-logo.png"></code>
   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg"> </code>
   <code> <img height="50" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> </code>
   <code> <img height="50" src="https://helve-blog.com/images/icon/keras.png"> </code>
+  <code> <img height="50" src="https://matplotlib.org/2.2.5/_images/sphx_glr_logos2_001.png" width='100'> </code>
+  <code><img height="50" src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png"></code>
+  <code> <img height="50" src="https://miro.medium.com/fit/c/160/160/1*LU8DrYH0werAkSh2K9VPDg.png"> </code>
+  <code> <img height="50" src="https://i0.wp.com/www.startupof.me/wp-content/uploads/2020/09/Tableau-logo.jpg?resize=150%2C150&ssl=1"> </code>
+  <code><img height="50" src="https://www.knewledge.com/wp-content/uploads/2019/08/google-data-studio-logo.png"></code>
   <code> <img height="50" src="https://helve-blog.com/images/icon/pyomo.png"> </code>
   <code> <img height="50" src="https://www.wenjiangs.com/wp-content/uploads/2020/12/networkx.jpg"> </code>
   <code> <img height="50" src="https://ekhuftai.files.wordpress.com/2020/12/131930211_211300827251462_3976120775449948937_n.jpg"> </code>
