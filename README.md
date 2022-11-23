@@ -93,6 +93,7 @@ Machine learning, Deep learning, Operation Research, Decision Science, Programmi
   <code><img height="50" src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png"></code>
   <code> <img height="50" src="https://miro.medium.com/fit/c/160/160/1*LU8DrYH0werAkSh2K9VPDg.png"> </code>
   <code> <img height="50" src="https://i0.wp.com/www.startupof.me/wp-content/uploads/2020/09/Tableau-logo.jpg?resize=150%2C150&ssl=1"> </code>
+  <code> <img height="50" src="https://res.cloudinary.com/apideck/image/upload/v1554720124/catalog/flourish/icon128x128.jpg"> </code>
   <code><img height="50" src="https://www.knewledge.com/wp-content/uploads/2019/08/google-data-studio-logo.png"></code>
   <code> <img height="50" src="https://helve-blog.com/images/icon/pyomo.png"> </code>
   <code> <img height="50" src="https://www.wenjiangs.com/wp-content/uploads/2020/12/networkx.jpg"> </code>
