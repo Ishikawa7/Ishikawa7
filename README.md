@@ -111,7 +111,6 @@ Machine learning, Deep learning, Operation Research, Decision Science, Programmi
   <code><img height="50" src="https://dataschool.com/assets/images/sql-optimization/bigquery/bigQuery.png"></code>
   <code> <img height="50" src="https://photo.isu.pub/databricks/photo_large.jpg"> </code>
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Spark-logo-192x100px.png/150px-Spark-logo-192x100px.png"></code>
-  <code> <img height="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082020/excel.png?KWQo_6WHHqtDZElOLXsHKyKn0PCLb_7O&itok=8OxV5QZn"> </code>
   
   <code> <img height="50" src="https://images.techhive.com/images/article/2014/11/git-logo-100533164-small.jpg"> </code>
   <code> <img height="50" src="https://www.softzone.es/app/uploads-softzone.es/2017/05/Logo-Microsoft-Visual-Studio-Code-150x150.png"> </code>
