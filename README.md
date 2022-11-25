@@ -1,8 +1,3 @@
-<!--
-
-
--->
-
 <h1 align="left">
 	Davide Grimaldi
 	<h2 align="left">
