@@ -104,7 +104,7 @@ Machine learning, Deep learning, Operation Research, Decision Science, Programmi
   <code><img height="50" src="https://mlflow.org/docs/0.2.1/_static/MLflow-logo-final-black.png"></code>
   <code><img height="50" src="https://miro.medium.com/max/432/1*dTrIcbxzVvVqtev-b_US9Q.png"></code>
   <code><img height="50" src="https://dataschool.com/assets/images/sql-optimization/bigquery/bigQuery.png"></code>
-  <code> <img height="50" src="https://photo.isu.pub/databricks/photo_large.jpg"> </code>
+  <code> <img height="50" src="https://photo.isu.pub/databricks/photo_large.jpg"></code>
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Spark-logo-192x100px.png/150px-Spark-logo-192x100px.png"></code>
   
   <code> <img height="50" src="https://images.techhive.com/images/article/2014/11/git-logo-100533164-small.jpg"> </code>
