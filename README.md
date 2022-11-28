@@ -21,7 +21,7 @@
 
 ### 🌱 I’m currently learning: *Graph neural network, MLOps, NLP, R, Game theory*
 
-### 📝 I regularly: read scientific papers and articles on edge technologies in AI, prototype new systems to deal with problems
+### 📝 I regularly: read scientific papers and articles on edge technologies in AI, prototype new systems to deal with real problems
 
 ### 💬 Ask me about: solutions to impact reality thanks to data science and artificial intelligence, make processes more efficient through optimization algorithms
 
