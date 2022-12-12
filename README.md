@@ -137,7 +137,7 @@ I'm an eclectic Data scientist that spans throughout the entire data science pro
   <br/>
    <a href="https://github.com/Ishikawa7">
 	   <img alt="Ishikawa7's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ishikawa7&custom_title=Ishikawa7's%20Contribution%20Graph&theme=react-dark" />
-	</a>
+   </a>
   <br/>
 
 
