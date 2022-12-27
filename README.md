@@ -39,7 +39,7 @@
 			<i>About me</i>
 		</p>
 </h2>
-	
+
 <h3 align="left">
 <p align="left">
 	
