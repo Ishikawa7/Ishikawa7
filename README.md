@@ -32,7 +32,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='Github' height='40'>](https://github.com/Ishikawa7)  | 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='Discord' height='40'> ishikawa7#4156  | 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='Telegram' height='40'> @montag1984  | 
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='Email' height='40'> davidegrimaldi92@gmai.com  |												   
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='Email' height='40'> davidegrimaldi92@gmai.com  |											   
 ---												       
 <h2 align="left">
 		<p align="left"">
