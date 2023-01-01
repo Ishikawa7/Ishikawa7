@@ -10,7 +10,7 @@
 	</h2>
 </h1>										
 <p align="left">
-	
+
 ### 🔭 I’m currently working as a data science and AI consultant
 
 ### 👀 I’m interested in artificial intelligence, math, computer science
