@@ -111,7 +111,7 @@ I'm an eclectic Data scientist that spans throughout the entire data science pro
   <code><img height="50" src="https://major.io/wp-content/uploads/2014/08/github-150x150.png"></code>
   <code><img height="50" src="https://www.androidauthority.com/wp-content/uploads/2017/03/kaggle-440x200.png"></code>
   <code> <img height="50" src="https://lh3.googleusercontent.com/-LsYNiQN8LtY/UWiONaNlAvI/AAAAAAAAUEA/RLs4UXg6MWQ/s197/Ubuntu-Logo-1.jpg"> </code>
-	
+
   <hr>
 <p align="center">
 
