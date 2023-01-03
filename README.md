@@ -139,7 +139,6 @@ I'm an eclectic Data scientist that spans throughout the entire data science pro
    </a>
   <br/>
 
-
 <br/>
 
 <summary><b>:trophy: Profile Trophies</b></summary>
