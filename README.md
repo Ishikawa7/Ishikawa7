@@ -98,7 +98,7 @@ I'm an eclectic Data scientist that spans throughout the entire data science pro
   <code> <img height="50" src="https://i0.wp.com/arstech.net/wp-content/uploads/2019/08/docker.png?w=180&ssl=1"> </code>
   <code> <img height="50" src="https://www.arangodb.com/wp-content/uploads/2019/03/Kubernetes-Logo.png"> </code>
   <code> <img height="50" src="https://www.fortinet.com/content/dam/fortinet/images/icons/alliances/logos/logo-google-cloud.jpg"> </code>
-  <code> <img height="50" src="https://www.3pillarglobal.com/wp-content/uploads/2016/03/neo4j_logo_600x600-300x300.png"> </code>
+  <code> <img height="50" src="https://dist.neo4j.com/wp-content/uploads/20191222124251/neo4j-inc-company-name-change.png"> </code>
   <code><img height="50" src="https://mlflow.org/docs/0.2.1/_static/MLflow-logo-final-black.png"></code>
   <code><img height="50" src="https://miro.medium.com/max/432/1*dTrIcbxzVvVqtev-b_US9Q.png"></code>
   <code><img height="50" src="https://dataschool.com/assets/images/sql-optimization/bigquery/bigQuery.png"></code>
