@@ -49,7 +49,7 @@ I'm an eclectic Data scientist that spans throughout the entire data science pro
 
 ## Key words
 <h3 align="left">
-<p align="left">	
+<p align="left">
 #Machine learning, #Deep learning, #Operation Research, #Decision Science, #Programming, #Anomalies detection, #Time series analysis, #Genetic Algorithms, #Heuristic algorithms, #Network Analysis, #Segmentation, #Optimization, #Forecasting, #Cloud, #Datascience, #MLOps, #Applied Math
 </p>
 </h3>
