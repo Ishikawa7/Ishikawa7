@@ -9,7 +9,7 @@
 		</a>
 	</h2>
 </h1>
-<p align="left">
+<p align="left"> 
 
 ### 🔭 I’m currently working as a data science and AI consultant
 
