@@ -7,7 +7,7 @@
 		<a target="_blank" align="right">
   		<img align="right" top="1000" height="400" width="500" alt="GIF" src=https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/ANN-Graph.gif>
 		</a>
-	</h2> 
+	</h2>
 </h1>
 <p align="left"> 
 
