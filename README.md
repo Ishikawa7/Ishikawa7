@@ -28,7 +28,7 @@
 ### 📄 Know about my experiences <a href="https://github.com/Ishikawa7/Me.io/blob/master/resume.pdf" target="blank">Resume</a>
 </p>
 
-### Reach me
+### Reach me 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='Github' height='40'>](https://github.com/Ishikawa7)  | 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='Discord' height='40'> ishikawa7#4156  | 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='Telegram' height='40'> @montag1984  | 
