@@ -19,7 +19,7 @@
 
 ### 💻 I’m currently Working on: *deep learning models, forecasting, data pipelines, deployment of AI solutions, optimization problems*
 
-### 🌱 I’m currently learning: *Graph neural network, NLP, Rust language, Game theory, Quantum computing*
+### 🌱 I’m currently learning: *Graph neural network, NLP, Rust language, Game theory, Quantum computing, Graph theory*
 
 ### 📝 I regularly: read scientific papers and articles on edge technologies in AI, prototype new systems to deal with real problems
 
