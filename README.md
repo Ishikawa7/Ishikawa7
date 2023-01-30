@@ -91,7 +91,7 @@ I'm an eclectic Data scientist that spans throughout the entire data science pro
   <code> <img height="50" src="https://ekhuftai.files.wordpress.com/2020/12/131930211_211300827251462_3976120775449948937_n.jpg"> </code>
   <code> <img height="50" src="https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2009/05/068-wolfram-alpha-logo.png"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.pngfind.com/pngs/m/62-626352_png-format-flask-python-logo-transparent-png.png"> </code>
   <code> <img height="50" src="https://xdeb.net/images/django_logo.png"> </code>
   <code> <img height="50" src="https://i1.wp.com/www.technosap.com/wp-content/uploads/2018/10/selenium-tutorial.jpg?resize=184%2C184&ssl=1"> </code>
   <code> <img height="50" src="https://i0.wp.com/arstech.net/wp-content/uploads/2019/08/docker.png?w=180&ssl=1"> </code>
