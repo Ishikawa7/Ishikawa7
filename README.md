@@ -105,7 +105,8 @@ I'm an eclectic Data scientist that spans throughout the entire data science pro
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Spark-logo-192x100px.png/150px-Spark-logo-192x100px.png"></code>
   <code><img height="50" src="https://lizard.net/uploads/sites/4/Plotly-dash-logo.png"></code>
   <code><img height="50" src="https://res.cloudinary.com/practicaldev/image/fetch/s--vBB9KCW4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/twfkvzk83m0cpjwz26js.png"></code>
-  
+  <code><img height="50" src="https://1000marcas.net/wp-content/uploads/2021/06/SQLite-Logo-768x480.png"></code>
+	
   <code> <img height="50" src="https://images.techhive.com/images/article/2014/11/git-logo-100533164-small.jpg"> </code>
   <code> <img height="50" src="https://www.softzone.es/app/uploads-softzone.es/2017/05/Logo-Microsoft-Visual-Studio-Code-150x150.png"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
