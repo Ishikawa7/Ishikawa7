@@ -146,4 +146,4 @@ I'm an eclectic Data scientist that spans throughout the entire data science pro
 
 <summary><b>:trophy: Profile Trophies</b></summary>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ishikawa7&layout=compact" alt="Ishikawa7" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ishikawa7&layout=compact" alt="Ishikawa7" /></a></p>
