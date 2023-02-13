@@ -107,6 +107,8 @@ I'm an eclectic Data scientist that spans throughout the entire data science pro
   <code><img height="50" src="https://res.cloudinary.com/practicaldev/image/fetch/s--vBB9KCW4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/twfkvzk83m0cpjwz26js.png"></code>
   <code><img height="50" src="https://1000marcas.net/wp-content/uploads/2021/06/SQLite-Logo-768x480.png"></code>
   <code><img height="50" src="http://blog.paralleldots.com/wp-content/uploads/2017/02/xgboost.png"></code>
+  <code><img height="50" src="https://lh3.googleusercontent.com/JJsz07dF8nyLcUM535tSdPBaEZkUpDwR5O-FXhXlyssAqiAc9nMTmEIad6MhJpPdtzkg"></code>
+	
 	
 	
   <code> <img height="50" src="https://images.techhive.com/images/article/2014/11/git-logo-100533164-small.jpg"> </code>
