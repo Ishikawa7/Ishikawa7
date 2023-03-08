@@ -60,6 +60,7 @@ I'm an eclectic Data scientist that spans throughout the entire data science pro
 <p align="left">
   
   <code><img height="50" src="https://www.devacademy.es/wp-content/uploads/2018/10/python-logo-150x150.png"></code>
+  <code><img height="50" src="https://i.iinfo.cz/images/531/cython-1.png"></code>
   <code> <img height="50" src="https://www.mycplus.com/mycplus/wp-content/uploads/2020/04/c_logo-150x150.png"> </code>
   <code> <img height="50" src="https://brandslogos.com/wp-content/uploads/images/large/c-logo.png"> </code>
   <code> <img height="50" src="https://code.gestiolex.it/wp-content/uploads/2016/09/SQL_logo1-300x300-150x150.png"> </code>
