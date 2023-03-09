@@ -69,6 +69,8 @@ I'm an eclectic Data scientist that spans throughout the entire data science pro
   <code> <img height="50" src="https://goering.io/images/tools/bash-logo.png"> </code>
   <code> <img height="50" src="https://logos-download.com/wp-content/uploads/2019/01/JavaScript_Logo-136x136.png"> </code>
   <code> <img height="50" src="https://www.images.cybrosys.com/images/sc-csharp.png"> </code>
+  <code> <img height="50" src="https://canvas.rutgers.edu/wp-content/uploads/2020/07/mathlab_logo.png"> </code>
+  
 
   <hr>
 <p align="center">
