@@ -111,8 +111,8 @@ I'm an eclectic Data scientist that spans throughout the entire data science pro
   <code><img height="50" src="https://1000marcas.net/wp-content/uploads/2021/06/SQLite-Logo-768x480.png"></code>
   <code><img height="50" src="http://blog.paralleldots.com/wp-content/uploads/2017/02/xgboost.png"></code>
   <code><img height="50" src="https://lh3.googleusercontent.com/JJsz07dF8nyLcUM535tSdPBaEZkUpDwR5O-FXhXlyssAqiAc9nMTmEIad6MhJpPdtzkg"></code>
-  <code><img height="50" src="https://images.ctfassets.net/9lml4v34yheh/5SFUKN35s4cvuRBaOmwKNk/f5d616619b7f3694895f4e0744cea415/68747470733a2f2f666173746170692e7469616e676f6c6f2e636f6d2f696d672f6c6f676f2d6d617267696e2f6c6f676f2d7465616c2e706e67.png?w=1024&q=50"></code>	
-	
+  <code><img height="50" src="https://images.ctfassets.net/9lml4v34yheh/5SFUKN35s4cvuRBaOmwKNk/f5d616619b7f3694895f4e0744cea415/68747470733a2f2f666173746170692e7469616e676f6c6f2e636f6d2f696d672f6c6f676f2d6d617267696e2f6c6f676f2d7465616c2e706e67.png?w=1024&q=50"></code>
+  <code><img height="50" src="https://miro.medium.com/v2/resize:fit:4000/0*xkP5OBGir3Pxs-np.png"></code>
 	
 	
   <code> <img height="50" src="https://images.techhive.com/images/article/2014/11/git-logo-100533164-small.jpg"> </code>
