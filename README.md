@@ -43,7 +43,7 @@
 <h3 align="left">
 <p align="left">
 
-I'm an eclectic Computer Scientist that spans throughout the entire data science process, from raw data management, to machine learning modeling, to product release. I am inclined to prototype new solutions to give insight into any complex problem. I prioritize collaboration with other professionals to create information that is useful and effective, but also as accurate and detailed as possible. I'm knowledge-oriented through operational approach.
+I'm an eclectic computer scientist that spans throughout the entire data science process, from raw data management, to machine learning modeling, to product release. I am inclined to prototype new solutions to give insight into any complex problem. I prioritize collaboration with other professionals to create information that is useful and effective, but also as accurate and detailed as possible. I'm knowledge-oriented through operational approach.
 </p>
 </h3>
 
