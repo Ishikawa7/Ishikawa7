@@ -64,6 +64,7 @@ I'm an eclectic computer scientist that spans throughout the entire data science
   <code> <img height="50" src="https://www.mycplus.com/mycplus/wp-content/uploads/2020/04/c_logo-150x150.png"> </code>
   <code> <img height="50" src="https://brandslogos.com/wp-content/uploads/images/large/c-logo.png"> </code>
   <code> <img height="50" src="https://code.gestiolex.it/wp-content/uploads/2016/09/SQL_logo1-300x300-150x150.png"> </code>
+  <code> <img height="50" src="https://www.vippng.com/png/detail/239-2390920_images-rust-lang-ar21-rust-programming-language.png"> </code>
   <code> <img height="50" src="https://media.if-not-true-then-false.com/2010/02/java-logo.png"> </code>
   <code> <img height="50" src="https://s3-us-west-2.amazonaws.com/oww-files-thumb/7/7e/Latex_logo_bw.gif/200px-Latex_logo_bw.gif"> </code>
   <code> <img height="50" src="https://goering.io/images/tools/bash-logo.png"> </code>
