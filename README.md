@@ -11,7 +11,7 @@
 </h1>
 <p align="left"> 
 
-### 🔭 I’m currently working as a data science and AI consultant
+### 🔭 I’m currently working as a data science and AI consultant and as a collaborator of the Semeion research center (Rome) 
 
 ### 👀 I’m interested in artificial intelligence, math, computer science
 
