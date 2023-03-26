@@ -8,7 +8,7 @@
   		<img align="right" top="1000" height="400" width="500" alt="GIF" src=https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/ANN-Graph.gif>
 		</a>
 	</h2>
-</h1>
+</h1> 
 <p align="left"> 
 
 ### 🔭 I’m currently working as a data science and AI consultant and as a collaborator of the Semeion research center (Rome) 
