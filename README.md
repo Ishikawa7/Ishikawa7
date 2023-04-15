@@ -19,7 +19,7 @@
 
 ### 💞️ I’m looking to collaborate on research/innovative projects
 
-### 💻 I’m currently Working on: *deep learning models, forecasting, data pipelines, deployment of AI solutions, optimization problems*
+### 💻 I’m currently Working on: *technology transfer, deep learning models, forecasting, data pipelines, deployment of AI solutions, optimization problems*
 
 ### 🌱 I’m currently learning: *Graph neural network, NLP, Rust, Game theory, Quantum computing, Graph theory, Quantum machine learning*
 
