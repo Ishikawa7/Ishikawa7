@@ -11,7 +11,9 @@
 </h1>
 <p align="left"> 
 
-### 🔭 I’m currently working as a data science and AI consultant and as a collaborator of the Semeion research center (Rome) 
+### 🔭 I’m currently working as a data science and AI consultant and as a collaborator of the Semeion research center (Rome)
+	       
+### 🏢 I'm co-founder and CTO of Semeion Tech SRL, a company that deals with adaptive artificial intelligence systems. The company is a spin-off of the Semeion research centre
 
 ### 👀 I’m interested in artificial intelligence, math, computer science
 
