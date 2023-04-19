@@ -11,9 +11,9 @@
 </h1>
 <p align="left">
 	       
-### 🔭 I’m currently working as a data scientist and machine learning engineer. I collaborate with the Semeion research center which is oriented to the design of Artificial Organisms based on Artificial Neural Networks and Evolutive Algorithms for the simulation, prediction and control of processes ([Semeion homepage](https://www.semeion.it/site/en/)).
+### 🔭 I’m currently working as a data scientist and machine learning engineer. I collaborate with the Semeion research center which is oriented to the design of Artificial Organisms based on Artificial Neural Networks and Evolutive Algorithms for the simulation, prediction and control of processes ([Semeion homepage](https://www.semeion.it/site/en/))
 	       
-### 🏢 I'm co-founder and researcher of Semeion Tech SRL, a company that deals with adaptive artificial intelligence systems. The company is a spin-off of the Semeion research centre
+### 🏢 I'm co-founder and researcher of Semeion Tech SRL, a company that deals with research and development specifically adaptive artificial intelligence systems. The company is a spin-off of the Semeion research centre
 
 ### 👀 I’m interested in artificial intelligence, math, computer science
 
