@@ -27,7 +27,6 @@
 
 ### 💬 Ask me about: solutions to impact reality thanks to data science and artificial intelligence, make processes more efficient through optimization algorithms
 
-### 📄 Know about my experiences <a href="https://github.com/Ishikawa7/Me.io/blob/master/resume.pdf" target="blank">Resume</a>
 </p>
 
 ### Reach me 
