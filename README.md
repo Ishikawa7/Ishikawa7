@@ -115,7 +115,7 @@ I'm an eclectic computer scientist who deals with the entire data science proces
   <code><img height="50" src="https://lh3.googleusercontent.com/JJsz07dF8nyLcUM535tSdPBaEZkUpDwR5O-FXhXlyssAqiAc9nMTmEIad6MhJpPdtzkg"></code>
   <code><img height="50" src="https://images.ctfassets.net/9lml4v34yheh/5SFUKN35s4cvuRBaOmwKNk/f5d616619b7f3694895f4e0744cea415/68747470733a2f2f666173746170692e7469616e676f6c6f2e636f6d2f696d672f6c6f676f2d6d617267696e2f6c6f676f2d7465616c2e706e67.png?w=1024&q=50"></code>
   <code><img height="50" src="https://miro.medium.com/v2/resize:fit:4000/0*xkP5OBGir3Pxs-np.png"></code>
-  <code><img height="50" src="https://ieee-cis-sbc.org/assets/img/blog/Tkinter.jpg"></code>
+  <code><img height="50" src="https://office-guru.ru/wp-content/uploads/2021/06/e508febfbc11-3.jpg"></code>
 	
 	
   <code> <img height="50" src="https://images.techhive.com/images/article/2014/11/git-logo-100533164-small.jpg"> </code>
