@@ -150,6 +150,7 @@ I'm an eclectic computer scientist who deals with the entire data science proces
    <a href="https://github.com/Ishikawa7">
 	   <img alt="Ishikawa7's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Ishikawa7&custom_title=Ishikawa7's%20Contribution%20Graph&theme=github" />
    </a>
+   [![Ishikawa7's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ishikawa7&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   <br/>
 
 <br/> 
