@@ -135,6 +135,7 @@ I'm an eclectic computer scientist who deals with the entire data science proces
 <br/>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishikawa7&count_private=true" alt="Ishikawa7" /></p>
 <p align="center"><img src="https://streak-stats.demolab.com/?user=?user=Ishikawa7&count_private=true" alt="Ishikawa7" /></p>
+<img alt="Ishikawa7's streak" src="https://streak-stats.demolab.com/?user=?user=Ishikawa7" />
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 <br>
