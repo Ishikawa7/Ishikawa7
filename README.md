@@ -134,8 +134,6 @@ I'm an eclectic computer scientist who deals with the entire data science proces
   <summary><b>:fire: Streak</b></summary>
 <br/>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishikawa7&count_private=true" alt="Ishikawa7" /></p>
-<p align="center"><img src="https://streak-stats.demolab.com/?user=?user=Ishikawa7" alt="Ishikawa7" /></p>
-
 <br>
 <br>
   <summary><b>💻 Profile</b></summary>
