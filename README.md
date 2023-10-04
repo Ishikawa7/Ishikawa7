@@ -125,6 +125,7 @@ I'm an eclectic computer scientist who deals with the entire data science proces
   <code><img height="50" src="https://www.androidauthority.com/wp-content/uploads/2017/03/kaggle-440x200.png"></code>
   <code> <img height="50" src="https://lh3.googleusercontent.com/-LsYNiQN8LtY/UWiONaNlAvI/AAAAAAAAUEA/RLs4UXg6MWQ/s197/Ubuntu-Logo-1.jpg"> </code>
   <code> <img height="50" src="https://1.bp.blogspot.com/-D5ZsP4Yh284/XhM6nHdsb1I/AAAAAAABexg/BN_AqouxYDAd9CN22xZ7OpG5uTQrPEkrQCLcBGAsYHQ/w1200-h630-p-k-no-nu/ssh_logo.png"> </code>
+  <code> <img height="50" src="  https://2.bp.blogspot.com/-Yf2YemF-oAA/W28WigyDD9I/AAAAAAAAAw8/60cWkNVg2nAf29_eGIaJbN5MgNv8fK8cwCPcBGAYYCw/s1600/pengertian-apache2-dan-konfigurasi.png"> </code>
 
   <hr>
 <p align="center">
