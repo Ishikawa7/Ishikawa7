@@ -14,8 +14,6 @@
 ### 🔭 I’m currently working as a data scientist and machine learning engineer.
 ### I collaborate with the Semeion research center which is "oriented to the design of Artificial Organisms based on Artificial Neural Networks and Evolutive Algorithms for the simulation, prediction and control of processes" ([Semeion homepage](https://www.semeion.it/site/en/))
 ### 🏢 I'm co-founder and researcher of Semeion Tech SRL, a company that deals with research & development along technology transfer, specifically our focus is on adaptive artificial intelligence systems. The company is a spin-off of the Semeion research centre
-
-### I collaborate with the IULM University of Milan on research projects regarding NLP, data analysis of the HORECA sector, analysis of social data. I also take care of their management of a Linux server on which the applications that call the necessary APIs and the visualization of the analysis results are loaded.
 	       
 
 
