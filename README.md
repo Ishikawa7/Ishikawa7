@@ -1,4 +1,4 @@
-<h1 align="left"> 
+h1 align="left"> 
 	Davide Grimaldi
 	<h2 align="left">
 		<p align="left""> 
@@ -21,7 +21,7 @@
 
 ### 💞️ I’m looking to collaborate on research/innovative projects
 
-### 💻 I’m currently Working on: *technology transfer, deep learning models, forecasting, data pipelines, deployment of AI solutions, optimization problems*
+### 💻 I’m currently Working on: *machine learning control, technology transfer, deep learning models, data pipelines, deployment of AI solutions, optimization problems*
 
 ### 🌱 I’m currently learning: *Graph neural network, Rust, Game theory, Quantum computing, Graph theory, Quantum machine learning*
 
