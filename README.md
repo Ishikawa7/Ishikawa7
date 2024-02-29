@@ -122,7 +122,7 @@ I'm an eclectic computer scientist who deals with the entire data science proces
   <code> <img height="50" src="https://images.techhive.com/images/article/2014/11/git-logo-100533164-small.jpg"> </code>
   <code> <img height="50" src="https://www.softzone.es/app/uploads-softzone.es/2017/05/Logo-Microsoft-Visual-Studio-Code-150x150.png"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
-  <code><img height="50" src="https://major.io/wp-content/uploads/2014/08/github-150x150.png"></code>
+  <code><img height="50" src="https://www.analyticsvidhya.com/wp-content/uploads/2015/06/kaggle-logo-transparent-300.png"></code>
   <code><img height="50" src="https://www.androidauthority.com/wp-content/uploads/2017/03/kaggle-440x200.png"></code>
   <code> <img height="50" src="https://lh3.googleusercontent.com/-LsYNiQN8LtY/UWiONaNlAvI/AAAAAAAAUEA/RLs4UXg6MWQ/s197/Ubuntu-Logo-1.jpg"> </code>
   <code> <img height="50" src="https://1.bp.blogspot.com/-D5ZsP4Yh284/XhM6nHdsb1I/AAAAAAABexg/BN_AqouxYDAd9CN22xZ7OpG5uTQrPEkrQCLcBGAsYHQ/w1200-h630-p-k-no-nu/ssh_logo.png"> </code>
