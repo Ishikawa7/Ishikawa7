@@ -130,6 +130,7 @@ I'm an eclectic computer scientist who deals with the entire data science proces
   <code> <img height="50" src="https://pic1.zhimg.com/v2-1d3b50b1eba4c2b06244425ff0c49570_180x120.jpg"> </code>
   <code> <img height="50" src="https://1.bp.blogspot.com/-yvrV6MUueGg/ToICp0YIDPI/AAAAAAAAADg/YKNtJPfx-H8/s1600/OpenCV_Logo.png"> </code>
   <code> <img height="50" src="https://mms.businesswire.com/media/20200616005364/en/798639/23/Streamlit_Logo_(1).jpg"> </code>
+  <code> <img height="50" src="https://shap-lrjball.readthedocs.io/en/latest/_static/shap_logo.png"> </code>
   
 
   <hr>
