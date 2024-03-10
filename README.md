@@ -93,7 +93,7 @@ I'm an eclectic computer scientist who deals with the entire data science proces
   <code> <img height="50" src="https://res.cloudinary.com/apideck/image/upload/v1554720124/catalog/flourish/icon128x128.jpg"> </code>
   <code><img height="50" src="https://www.knewledge.com/wp-content/uploads/2019/08/google-data-studio-logo.png"></code>
   <code> <img height="50" src="https://helve-blog.com/images/icon/pyomo.png"> </code>
-  <code> <img height="50" src="https://chanzuckerberg.com/wp-content/uploads/2021/08/networkx-Dan-Schult.png"> </code> [comment]: <> (networkx)
+  <code> <img height="50" src="https://chanzuckerberg.com/wp-content/uploads/2021/08/networkx-Dan-Schult.png"> </code> <!--- networkx) --->
   <code> <img height="50" src="https://ekhuftai.files.wordpress.com/2020/12/131930211_211300827251462_3976120775449948937_n.jpg"> </code>
   <code> <img height="50" src="https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2009/05/068-wolfram-alpha-logo.png"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
