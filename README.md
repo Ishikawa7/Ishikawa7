@@ -94,7 +94,7 @@ I'm an eclectic computer scientist who deals with the entire data science proces
   <code><img height="50" src="https://www.knewledge.com/wp-content/uploads/2019/08/google-data-studio-logo.png"></code>
   <code> <img height="50" src="https://helve-blog.com/images/icon/pyomo.png"> </code>
   <code> <img height="50" src="https://chanzuckerberg.com/wp-content/uploads/2021/08/networkx-Dan-Schult.png"> </code> <!--- networkx) --->
-  <code> <img height="50" src="https://ekhuftai.files.wordpress.com/2020/12/131930211_211300827251462_3976120775449948937_n.jpg"> </code>
+  <code> <img height="50" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_logo_icon_170836.png"> </code> <!--- postgress) --->
   <code> <img height="50" src="https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2009/05/068-wolfram-alpha-logo.png"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
   <code> <img height="50" src="https://www.pngfind.com/pngs/m/62-626352_png-format-flask-python-logo-transparent-png.png"> </code>
@@ -123,7 +123,6 @@ I'm an eclectic computer scientist who deals with the entire data science proces
   <code> <img height="50" src="https://www.softzone.es/app/uploads-softzone.es/2017/05/Logo-Microsoft-Visual-Studio-Code-150x150.png"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
   <code><img height="50" src="https://www.analyticsvidhya.com/wp-content/uploads/2015/06/kaggle-logo-transparent-300.png"></code>
-  <code><img height="50" src="https://www.androidauthority.com/wp-content/uploads/2017/03/kaggle-440x200.png"></code>
   <code> <img height="50" src="https://lh3.googleusercontent.com/-LsYNiQN8LtY/UWiONaNlAvI/AAAAAAAAUEA/RLs4UXg6MWQ/s197/Ubuntu-Logo-1.jpg"> </code>
   <code> <img height="50" src="https://1.bp.blogspot.com/-D5ZsP4Yh284/XhM6nHdsb1I/AAAAAAABexg/BN_AqouxYDAd9CN22xZ7OpG5uTQrPEkrQCLcBGAsYHQ/w1200-h630-p-k-no-nu/ssh_logo.png"> </code>
   <code> <img height="50" src="https://2.bp.blogspot.com/-Yf2YemF-oAA/W28WigyDD9I/AAAAAAAAAw8/60cWkNVg2nAf29_eGIaJbN5MgNv8fK8cwCPcBGAYYCw/s1600/pengertian-apache2-dan-konfigurasi.png"> </code>
