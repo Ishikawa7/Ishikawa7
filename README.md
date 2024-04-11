@@ -63,7 +63,7 @@ I'm an eclectic computer scientist who deals with the entire data science proces
   
   <code><img height="50" src="https://www.devacademy.es/wp-content/uploads/2018/10/python-logo-150x150.png"></code>
   <code><img height="50" src="https://i.iinfo.cz/images/531/cython-1.png"></code>
-  <code><img height="50" src="https://logodix.com/logo/700854.png"></code> <!--- RUST --->
+  <code><img height="50" src="https://logodix.com/logo/700854.png"></code> <!--- rust --->
   <code> <img height="50" src="https://www.mycplus.com/mycplus/wp-content/uploads/2020/04/c_logo-150x150.png"> </code>
   <code> <img height="50" src="https://brandslogos.com/wp-content/uploads/images/large/c-logo.png"> </code>
   <code> <img height="50" src="https://code.gestiolex.it/wp-content/uploads/2016/09/SQL_logo1-300x300-150x150.png"> </code>
@@ -95,7 +95,7 @@ I'm an eclectic computer scientist who deals with the entire data science proces
   <code> <img height="50" src="https://res.cloudinary.com/apideck/image/upload/v1554720124/catalog/flourish/icon128x128.jpg"> </code>
   <code><img height="50" src="https://www.knewledge.com/wp-content/uploads/2019/08/google-data-studio-logo.png"></code>
   <code> <img height="50" src="https://helve-blog.com/images/icon/pyomo.png"> </code>
-  <code> <img height="50" src="https://chanzuckerberg.com/wp-content/uploads/2021/08/networkx-Dan-Schult.png"> </code> <!--- networkx) --->
+  <code> <img height="50" src="https://chanzuckerberg.com/wp-content/uploads/2021/08/networkx-Dan-Schult.png"> </code> <!--- networkx --->
   <code> <img height="50" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_logo_icon_170836.png"> </code> <!--- postgress) --->
   <code> <img height="50" src="https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2009/05/068-wolfram-alpha-logo.png"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
