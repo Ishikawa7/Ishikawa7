@@ -9,7 +9,7 @@
 		</a>
 	</h2>
 </h1> 
-<p align="left">
+<p align="left"> 
  
 ### 🔭 I’m currently working as a data scientist and machine learning engineer.
 ### 🏢 I'm co-founder and researcher of Semeion Tech SRL, a company that deals with research & development along technology transfer, specifically our focus is on adaptive artificial intelligence systems.
