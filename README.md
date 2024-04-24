@@ -12,9 +12,8 @@
 <p align="left"> 
  
 ### 🔭 I’m currently working as a data scientist and machine learning engineer.
-### 🏢 I'm co-founder and researcher of Semeion Tech SRL, a company that deals with research & development along technology transfer, specifically our focus is on adaptive artificial intelligence systems.
+### 🏢 At the moment I am working for Nicomac europe s.r.l. [Nicomac website](https://nicomac.com/) on machine learning control projects, use of machine learning in industrial processes.
 	       
-
 
 ### 👀 I’m interested in artificial intelligence, math, computer science
 
@@ -22,7 +21,7 @@
 
 ### 💻 I’m currently Working on: *machine learning control, technology transfer, deep learning models, data pipelines, deployment of AI solutions, optimization problems*
 
-### 🌱 I’m currently learning: *Graph neural network, Rust, Game theory, Quantum computing, Graph theory, Quantum machine learning*
+### 🌱 I’m currently learning: *Graph neural network, Game theory, Quantum computing, Quantum machine learning, Agile development*
 
 ### 📝 I regularly: read scientific papers and articles on edge technologies in AI, prototype new systems to deal with real problems
 
@@ -52,7 +51,7 @@ I'm an eclectic computer scientist who deals with the entire data science proces
 ## Key words
 <h3 align="left">
 <p align="left">
-#Machine learning, #Deep learning, #Operation Research, #Programming, #Anomalies detection, #Time series analysis, #Genetic Algorithms, #Heuristic algorithms, #Network Analysis, #Segmentation, #Optimization, #Forecasting, #Cloud, #Datascience, #MLOps, #Applied Math
+#Machine learning, #Deep learning, #Operation Research, #Programming, #Anomalies detection, #Time series analysis, #Genetic Algorithms, #Heuristic algorithms, #Network Analysis, #Optimization, #Forecasting, #Cloud, #Datascience, #MLOps, #Applied Math, #Machine learning control, #Reinforcement learning
 </p>
 </h3>
 ---
