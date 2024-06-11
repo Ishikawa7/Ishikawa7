@@ -73,6 +73,7 @@ I'm an eclectic computer scientist who deals with the entire data science proces
   <code> <img height="50" src="https://www.logolynx.com/images/logolynx/92/92da911aa16bb2eaceda448ff972d235.png"> </code>
   <code> <img height="50" src="https://goering.io/images/tools/bash-logo.png"> </code>
   <code> <img height="50" src="https://logos-download.com/wp-content/uploads/2019/01/JavaScript_Logo-136x136.png"> </code>
+  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"> </code>
   <code> <img height="50" src="https://www.images.cybrosys.com/images/sc-csharp.png"> </code>
   <code> <img height="50" src="https://canvas.rutgers.edu/wp-content/uploads/2020/07/mathlab_logo.png"> </code>
   
