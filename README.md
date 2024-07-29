@@ -107,7 +107,6 @@ I'm an eclectic computer scientist who deals with the entire data science proces
   <code> <img height="50" src="https://www.arangodb.com/wp-content/uploads/2019/03/Kubernetes-Logo.png"> </code>
   <code> <img height="50" src="https://www.fortinet.com/content/dam/fortinet/images/icons/alliances/logos/logo-google-cloud.jpg"> </code>
   <code> <img height="50" src="https://dist.neo4j.com/wp-content/uploads/20191222124251/neo4j-inc-company-name-change.png"> </code>
-  
   <code><img height="50" src="https://dataschool.com/assets/images/sql-optimization/bigquery/bigQuery.png"></code>
   <code> <img height="50" src="https://photo.isu.pub/databricks/photo_large.jpg"></code>
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Spark-logo-192x100px.png/150px-Spark-logo-192x100px.png"></code>
@@ -128,7 +127,6 @@ I'm an eclectic computer scientist who deals with the entire data science proces
   <code> <img height="50" src="https://shap-lrjball.readthedocs.io/en/latest/_static/shap_logo.png"> </code> <!-- SHAP --->
   <code> <img height="50" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_d37f89c1251e47b82c66ab6ff1b4c2be/d3js.jpeg"> </code> <!-- D3.js --->
   <code> <img height="50" src="http://kresec.stikom-bali.ac.id/wp-content/uploads/2022/09/surreal-1024x512.png"> </code> <!-- SurrealDB --->
-  
   <code> <img height="50" src="https://images.techhive.com/images/article/2014/11/git-logo-100533164-small.jpg"> </code>
   <code> <img height="50" src="https://www.softzone.es/app/uploads-softzone.es/2017/05/Logo-Microsoft-Visual-Studio-Code-150x150.png"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
