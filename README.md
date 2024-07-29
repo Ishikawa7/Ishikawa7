@@ -107,7 +107,6 @@ I'm an eclectic computer scientist who deals with the entire data science proces
   <code> <img height="50" src="https://www.arangodb.com/wp-content/uploads/2019/03/Kubernetes-Logo.png"> </code>
   <code> <img height="50" src="https://www.fortinet.com/content/dam/fortinet/images/icons/alliances/logos/logo-google-cloud.jpg"> </code>
   <code> <img height="50" src="https://dist.neo4j.com/wp-content/uploads/20191222124251/neo4j-inc-company-name-change.png"> </code>
-  <code><img height="50" src="https://datasolut.com/wp-content/uploads/2019/11/MLFlow-logo_white.png"></code> <!--- mlflow) --->
   <code><img height="50" src="https://miro.medium.com/max/432/1*dTrIcbxzVvVqtev-b_US9Q.png"></code>
   <code><img height="50" src="https://dataschool.com/assets/images/sql-optimization/bigquery/bigQuery.png"></code>
   <code> <img height="50" src="https://photo.isu.pub/databricks/photo_large.jpg"></code>
