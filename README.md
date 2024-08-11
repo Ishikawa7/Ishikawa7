@@ -84,6 +84,7 @@ I'm an eclectic computer scientist who deals with the entire data science proces
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Libraries and tools***
 <p align="left">
   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png"> </code>
+  <code> <img height="50" src="https://2679069.fs1.hubspotusercontent-na1.net/hubfs/2679069/Sans%20titre%20(3).png"> </code> <!--- polars --->
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> </code>
   <code> <img height="50" src="https://www.firelinescience.com/wp-content/uploads/2019/09/SciPy-Logo.png"> </code>
   <code> <img height="50" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png"> </code>
