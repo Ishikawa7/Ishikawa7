@@ -135,9 +135,7 @@ I'm an eclectic computer scientist who deals with the entire data science proces
   <code> <img height="50" src="https://lh3.googleusercontent.com/-LsYNiQN8LtY/UWiONaNlAvI/AAAAAAAAUEA/RLs4UXg6MWQ/s197/Ubuntu-Logo-1.jpg"> </code>
   <code> <img height="50" src="https://1.bp.blogspot.com/-D5ZsP4Yh284/XhM6nHdsb1I/AAAAAAABexg/BN_AqouxYDAd9CN22xZ7OpG5uTQrPEkrQCLcBGAsYHQ/w1200-h630-p-k-no-nu/ssh_logo.png"> </code>
   <code> <img height="50" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1652732596275/Qg-i5EMvC.png?w=1200&h=630&fit=crop&crop=entropy&auto=compress,format&format=webp&fm=png"> </code>
-
-  
-
+  <code> <img height="50" src="https://pythonforundergradengineers.com/posts/streamlit/images/bokeh_logo.png"> </code>
   <hr>
 <p align="center">
 
