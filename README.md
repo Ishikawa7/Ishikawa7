@@ -136,6 +136,7 @@ I'm an eclectic computer scientist who deals with the entire data science proces
   <code> <img height="50" src="https://1.bp.blogspot.com/-D5ZsP4Yh284/XhM6nHdsb1I/AAAAAAABexg/BN_AqouxYDAd9CN22xZ7OpG5uTQrPEkrQCLcBGAsYHQ/w1200-h630-p-k-no-nu/ssh_logo.png"> </code>
   <code> <img height="50" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1652732596275/Qg-i5EMvC.png?w=1200&h=630&fit=crop&crop=entropy&auto=compress,format&format=webp&fm=png"> </code>
   <code> <img height="50" src="https://pythonforundergradengineers.com/posts/streamlit/images/bokeh_logo.png"> </code>
+  <code> <img height="50" src="https://miro.medium.com/v2/resize:fit:7170/1*psF_PP1uN5RxmgRKrDze4g.png"> </code> <!-- Captum pytorch --->
   <hr>
 <p align="center">
 
