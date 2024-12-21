@@ -92,7 +92,6 @@ I'm an eclectic computer scientist who deals with the entire data science proces
   <code> <img height="50" src="https://helve-blog.com/images/icon/keras.png"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.png"> </code> <!-- Pytorch --->
   <code> <img height="50" src="https://miro.medium.com/v2/resize:fit:7170/1*psF_PP1uN5RxmgRKrDze4g.png"> </code> <!-- Captum pytorch --->
-	
   <code> <img height="50" src="https://matplotlib.org/2.2.5/_images/sphx_glr_logos2_001.png" width='100'> </code>
   <code><img height="50" src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png"></code>
   <code> <img height="50" src="https://miro.medium.com/fit/c/160/160/1*LU8DrYH0werAkSh2K9VPDg.png"> </code>
