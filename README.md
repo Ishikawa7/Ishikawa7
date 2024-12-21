@@ -90,6 +90,9 @@ I'm an eclectic computer scientist who deals with the entire data science proces
   <code> <img height="50" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> </code>
   <code> <img height="50" src="https://helve-blog.com/images/icon/keras.png"> </code>
+  <code> <img height="50" src="https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.png"> </code> <!-- Pytorch --->
+  <code> <img height="50" src="https://miro.medium.com/v2/resize:fit:7170/1*psF_PP1uN5RxmgRKrDze4g.png"> </code> <!-- Captum pytorch --->
+	
   <code> <img height="50" src="https://matplotlib.org/2.2.5/_images/sphx_glr_logos2_001.png" width='100'> </code>
   <code><img height="50" src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png"></code>
   <code> <img height="50" src="https://miro.medium.com/fit/c/160/160/1*LU8DrYH0werAkSh2K9VPDg.png"> </code>
@@ -136,7 +139,6 @@ I'm an eclectic computer scientist who deals with the entire data science proces
   <code> <img height="50" src="https://1.bp.blogspot.com/-D5ZsP4Yh284/XhM6nHdsb1I/AAAAAAABexg/BN_AqouxYDAd9CN22xZ7OpG5uTQrPEkrQCLcBGAsYHQ/w1200-h630-p-k-no-nu/ssh_logo.png"> </code>
   <code> <img height="50" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1652732596275/Qg-i5EMvC.png?w=1200&h=630&fit=crop&crop=entropy&auto=compress,format&format=webp&fm=png"> </code>
   <code> <img height="50" src="https://pythonforundergradengineers.com/posts/streamlit/images/bokeh_logo.png"> </code>
-  <code> <img height="50" src="https://miro.medium.com/v2/resize:fit:7170/1*psF_PP1uN5RxmgRKrDze4g.png"> </code> <!-- Captum pytorch --->
   <hr>
 <p align="center">
 
