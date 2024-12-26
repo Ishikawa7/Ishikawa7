@@ -10,7 +10,7 @@
 	</h2>
 </h1> 
 <p align="left">
- 
+
 ### 🔭 I’m currently working as a data scientist and machine learning engineer.
 ### 🏢 At the moment I am working for Nicomac europe s.r.l. ([Nicomac website](https://nicomac.com/)) on machine learning control projects, use of machine learning in industrial processes.
 	       
