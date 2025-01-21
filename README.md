@@ -167,8 +167,3 @@ I'm an eclectic computer scientist who deals with the entire data science proces
 <summary><b>:trophy: Profile Trophies</b></summary>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ishikawa7&layout=compact" alt="Ishikawa7" /></a></p>
-
-<summary><b>Languages</b></summary>
-<p align="center"> 
-	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ishikawa7" alt="Ishikawa7" /></a>
-</p>
