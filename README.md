@@ -169,6 +169,6 @@ I'm an eclectic computer scientist who deals with the entire data science proces
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ishikawa7&layout=compact" alt="Ishikawa7" /></a></p>
 
 <summary><b>Languages</b></summary>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishikawa7&layout=compact)
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ishikawa7&layout=compact" alt="Ishikawa7" /></a></p>
+<p align="center"> 
+	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishikawa7&layout=compact" alt="Ishikawa7" /></a></p>
 
