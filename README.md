@@ -27,7 +27,7 @@
 
 ### 💬 Ask me about: solutions to impact reality thanks to data science and artificial intelligence, make processes more efficient through optimization algorithms
 
-### 📄 Know about my experiences <a href="DavideGrimaldiResume.pdf" target="DavideGrimaldiResume.pdf">Resume</a>
+### 📄 Know about my experiences <a href="DavideGrimaldiResume2.pdf" target="DavideGrimaldiResume2.pdf">Resume</a>
 
 </p>
 
