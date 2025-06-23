@@ -17,11 +17,9 @@
 
 ### 👀 I’m interested in artificial intelligence, math, computer science
 
-### 💞️ I’m looking to collaborate on research/innovative projects
+### 🌱 I’m looking to collaborate on research/innovative projects
 
 ### 💻 I’m currently Working on: *machine learning control, technology transfer, deep learning models, data pipelines, deployment of AI solutions, optimization problems*
-
-### 🌱 I’m currently learning: *Graph neural network, Game theory, Quantum computing, Quantum machine learning, Agile development*
 
 ### 📝 I regularly: read scientific papers and articles on edge technologies in AI, prototype new systems to deal with real problems
 
