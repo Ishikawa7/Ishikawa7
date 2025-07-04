@@ -7,7 +7,6 @@
 
 ### 🔭 I'm currently working as a **Machine Learning Engineer** and as a **Research Operations Analyst**.
 ### 🏢 At the moment, I am working for Nicomac Europe s.r.l. ([Nicomac website](https://nicomac.com/)) on machine learning control projects and the use of machine learning in industrial processes.
-### 👀 I'm interested in **Artificial Intelligence**, **Math**, and **Computer Science**.
 ### 🌱 I'm looking to **collaborate on research/innovative projects**.
 ### 💻 I'm currently working on: *machine learning control, technology transfer, deep learning models, data pipelines, deployment of AI solutions, optimization problems*.
 ### 📝 I regularly: **read scientific papers and articles on edge technologies in AI**, and **prototype new systems to deal with real problems**.
