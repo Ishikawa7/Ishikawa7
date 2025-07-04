@@ -5,9 +5,9 @@
   <img align="right" top="1000" height="400" width="500" alt="GIF" src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/ANN-Graph.gif">
 </p>
 
-  🔭 I'm currently working as a **Machine Learning Engineer** and as a **Research Operations Analyst**.
- ### 🏢 At the moment, I am working for Nicomac Europe s.r.l. ([Nicomac website](https://nicomac.com/)) on machine learning control projects and the use of machine learning in industrial processes.
- ### 🌱 I'm looking to **collaborate on research/innovative projects**.
+🔭 I'm currently working as a **Machine Learning Engineer** and as a **Research Operations Analyst**.
+🏢 At the moment, I am working for Nicomac Europe s.r.l. ([Nicomac website](https://nicomac.com/)) on machine learning control projects and the use of machine learning in industrial processes.
+🌱 I'm looking to **collaborate on research/innovative projects**.
  ### 💻 I'm currently working on: *machine learning control, technology transfer, deep learning models, data pipelines, deployment of AI solutions, optimization problems*.
  ### 📝 I regularly: **read scientific papers and articles on edge technologies in AI**, and **prototype new systems to deal with real problems**.
  ### 💬 Ask me about: **solutions to impact reality thanks to data science and artificial intelligence**, and **making processes more efficient through optimization algorithms**.
