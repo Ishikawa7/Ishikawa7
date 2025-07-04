@@ -54,7 +54,7 @@ workloads.
 ---
 <br/>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Programming languages***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Programming languages***>
 <p align="left">
   
   <code><img height="50" src="https://www.devacademy.es/wp-content/uploads/2018/10/python-logo-150x150.png"></code>
