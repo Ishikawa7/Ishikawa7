@@ -31,7 +31,6 @@ I am a **versatile** and **antifragile computer scientist** with hands-on experi
 ---
 
 <br/>
-<hr>
 
 ## GitHub Stats
 
