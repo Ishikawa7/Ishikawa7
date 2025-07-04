@@ -38,10 +38,10 @@
 <h3 align="left">
 <p align="left">
 Versatile and antifragile computer scientist with hands-on experience across the full data science pipeline — from raw data to deployed ML solutions. Skilled in machine learning, deep learning, optimization, and data-driven decision systems, with a strong track record in high-impact projects across food production, HoReCa sector, industry, defense, and research.
-🔹 Strong ability to prototype new solutions to give insight into any complex problem.
-🔹 Resilient with field-tested capabilities to handle multiple projects and high
+Strong ability to prototype new solutions to give insight into any complex problem.
+Resilient with field-tested capabilities to handle multiple projects and high
 workloads.
-🔹 I prioritize collaboration with other professionals to create information that is useful and effective, but also as accurate and detailed as possible.
+I prioritize collaboration with other professionals to create information that is useful and effective, but also as accurate and detailed as possible.
 </p>
 </h3>
 
