@@ -22,7 +22,7 @@ Versatile and antifragile Machine Learning Engineer with end-to-end expertise in
 * Prototyping Excellence: ability to prototype new solutions to give insight into any complex problem.
 * Effective Research Translation: Bridged academic and applied research by translating models into usable tools.
 
-## Key Words
+## Key Skills
 
 #Machine Learning, #Deep Learning, #Operation Research, #Decision Science, #Programming, #Anomalies Detection, #Time Series Analysis, #Genetic Algorithms, #Heuristic Algorithms, #Network Analysis, #Optimization, #Forecasting, #Cloud, #Data Science, #MLOps, #Applied Math, #Machine Learning Control, #Reinforcement Learning
 
