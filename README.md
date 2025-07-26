@@ -16,15 +16,15 @@
 
 ## About Me
 
-I am a **versatile** and **antifragile computer scientist** with hands-on experience across the full data science pipeline — from raw data to deployed ML solutions. I am skilled in machine learning, deep learning, optimization, and data-driven decision systems, with a strong track record in high-impact projects across food production, the HoReCa sector, industry, defense, and research.
-
-* Strong ability to **prototype new solutions** to gain insight into any complex problem.
-* **Resilient** with field-tested capabilities to handle multiple projects and high workloads.
-* I prioritize **collaboration** with other professionals to create information that is useful and effective, as well as accurate and detailed.
+Versatile and antifragile Machine Learning Engineer with end-to-end expertise in machine learning solution development, from data ingestion and model building to deployment and optimization. Skilled in machine learning, deep learning, optimization, and data-driven decision systems, with a strong track record in high-impact projects across food production, HoReCa sector, industry, defense, and research.
+🔹Team Collaboration: Collaborated cross-functionally with experts to drive AI product development.
+🔹Cross-Domain Agility: Successfully applied machine learning methodologies across diverse domains.
+🔹Prototyping Excellence: ability to prototype new solutions to give insight into any complex problem.
+🔹Effective Research Translation: Bridged academic and applied research by translating models into usable tools.
 
 ## Key Words
 
-#Machine Learning, #Deep Learning, #Operation Research, #Programming, #Anomalies Detection, #Time Series Analysis, #Genetic Algorithms, #Heuristic Algorithms, #Network Analysis, #Optimization, #Forecasting, #Cloud, #Data Science, #MLOps, #Applied Math, #Machine Learning Control, #Reinforcement Learning
+#Machine Learning, #Deep Learning, #Operation Research, #Decision Science, #Programming, #Anomalies Detection, #Time Series Analysis, #Genetic Algorithms, #Heuristic Algorithms, #Network Analysis, #Optimization, #Forecasting, #Cloud, #Data Science, #MLOps, #Applied Math, #Machine Learning Control, #Reinforcement Learning
 
 ---
 
