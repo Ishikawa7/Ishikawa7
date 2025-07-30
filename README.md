@@ -21,6 +21,7 @@ Versatile and antifragile Machine Learning Engineer with end-to-end expertise in
 * Cross-Domain Agility: Successfully applied machine learning methodologies across diverse domains.
 * Prototyping Excellence: ability to prototype new solutions to give insight into any complex problem.
 * Effective Research Translation: Bridged academic and applied research by translating models into usable tools.
+* Process Optimization & Solution-Driven: Focused on developing and implementing solutions that enhance efficiency and streamline operations, regardless of domain or scale.
 
 ## Key Skills
 
