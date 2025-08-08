@@ -19,9 +19,9 @@
 Versatile and antifragile Machine Learning Engineer with end-to-end expertise in machine learning solution development, from data ingestion and model building to deployment and optimization. Skilled in machine learning, deep learning, optimization, and data-driven decision systems, with a strong track record in high-impact projects across food production, HoReCa sector, industry, defense, and research.
 * Team Collaboration: Collaborated cross-functionally with experts to drive AI product development.
 * Cross-Domain Agility: Successfully applied machine learning methodologies across diverse domains.
-* Prototyping Excellence: ability to prototype new solutions to give insight into any complex problem.
 * Effective Research Translation: Bridged academic and applied research by translating models into usable tools.
 * Process Optimization & Solution-Driven: Focused on developing and implementing solutions that enhance efficiency and streamline operations, regardless of domain or scale.
+* Prototyping Excellence: ability to prototype new solutions to give insight into any complex problem.
 
 ## Key Skills
 
