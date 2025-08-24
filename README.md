@@ -21,7 +21,6 @@ Versatile Machine Learning Engineer with end-to-end expertise in machine learnin
 * Team Collaboration: Collaborated cross-functionally with experts to drive AI product development.
 * Cross-Domain Agility: Successfully applied machine learning methodologies across diverse domains.
 * Effective Research Translation: Bridged academic and applied research by translating models into usable tools.
-* Prototyping Excellence: ability to prototype new solutions to give insight into any complex problem.
 
 ## Key Skills
 
