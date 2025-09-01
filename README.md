@@ -4,7 +4,7 @@
   <img align="right" top="1000" height="400" width="500" alt="GIF" src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/ANN-Graph.gif">
 </p>
 
-#### 🔭 I'm currently working as a **Machine Learning Engineer** and as a **Research Operations Scientist**.
+#### 🔭 I'm currently working as a **Machine Learning Engineer** and as a **Operations Research Scientist**.
 #### 🏢 At the moment, I am working for Nicomac Europe s.r.l. ([Nicomac website](https://nicomac.com/)) on machine learning control projects and the use of machine learning in industrial processes.
 #### 🌱 I'm looking to **collaborate on research-innovative projects**.
 #### 💻 I'm currently working on: *machine learning control, technology transfer, computer vision, data pipelines, deployment of AI solutions, optimization problems*.
@@ -24,7 +24,7 @@ Versatile Machine Learning Engineer with end-to-end expertise in machine learnin
 
 ## Key Skills
 
-#Machine Learning, #Deep Learning, #Operation Research, #Decision Science, #Programming, #Anomalies Detection, #Time Series Analysis, #Genetic Algorithms, #Heuristic Algorithms, #Network Analysis, #Optimization, #Forecasting, #Cloud, #Data Science, #MLOps, #Applied Math, #Machine Learning Control, #Reinforcement Learning
+#Machine Learning, #Deep Learning, #Operation Research, #Decision Science, #Programming, #Anomalies Detection, #Time Series Analysis, #Heuristic Algorithms, #Network Analysis, #Optimization, #Forecasting, #Data Science, #MLOps, #Applied Math, #Machine Learning Control, #Reinforcement Learning, #Operations Research
 
 ---
 
