@@ -9,7 +9,7 @@
 #### 💻 I'm currently working on: *machine learning control, technology transfer, computer vision, data pipelines, deployment of AI solutions, optimization problems*.
 #### 📝 I regularly: **read scientific papers and articles on machine learning and research operations**; **prototype new systems to deal with real problems**.
 #### 🌱 I'm looking to **collaborate on research-innovative projects**.
-#### 💬 Ask me about: **solutions to impact reality thanks to artificial intelligence**, and **making processes more efficient through optimization algorithms**.
+#### 💬 Ask me about: **solutions to impact reality**, **making processes more efficient through ML and optimization algorithms**, **apply machine learning and optimization algorithms to science and engineering**.
 #### 📄 Know about my experiences: [Resume](DavideGrimaldiCV.pdf)
 
 ---
