@@ -5,7 +5,7 @@
 </p>
 
 #### 🔭 I'm currently working as a **Machine Learning Engineer** and as a **Operations Research Scientist**.
-#### 🏢 At the moment, I am working for Nicomac Europe s.r.l. ([Nicomac website](https://nicomac.com/)) on the usage of machine learning in industrial processes.
+#### 🏢 Currently, I am working for Nicomac Europe s.r.l. ([Nicomac website](https://nicomac.com/)) on the usage of machine learning in industrial processes.
 #### 💻 I'm currently working on: *machine learning control, technology transfer, computer vision, data pipelines, deployment of AI solutions, optimization problems*.
 #### 📝 I regularly: **read scientific papers and articles on machine learning and research operations**; **prototype new systems to deal with real problems**.
 #### 🌱 I'm looking to **collaborate on research-innovative projects**.
