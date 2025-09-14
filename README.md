@@ -22,10 +22,8 @@ Versatile Machine Learning Engineer with end-to-end expertise in machine learnin
 * Cross-Domain Agility: Successfully applied machine learning methodologies across diverse domains.
 * Effective Research Translation: Bridged academic and applied research by translating models into usable tools.
 
-## Key Skills
-
-#Machine Learning, #Deep Learning, #Operation Research, #Decision Science, #Programming, #Anomalies Detection, #Time Series Analysis, #Heuristic Algorithms, #Network Analysis, #Optimization, #Forecasting, #Data Science, #MLOps, #Applied Math, #Machine Learning Control, #Reinforcement Learning, #Operations Research
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="davide-grimaldi-1b2272247" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://it.linkedin.com/in/davide-grimaldi-1b2272247?trk=profile-badge">Linkedin</a></div>
+              
 ---
 
 ## GitHub Stats
