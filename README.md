@@ -4,26 +4,34 @@
   <img align="right" top="1000" height="400" width="500" alt="GIF" src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/ANN-Graph.gif">
 </p>
 
-#### 🔭 I'm currently working as a **Machine Learning Engineer** and as a **Operations Research Scientist**.
-#### 🏢 Currently, I am working for Nicomac Europe s.r.l. ([Nicomac website](https://nicomac.com/)) on the usage of machine learning in industrial processes.
+#### 🔭 I'm a **Machine Learning Engineer** and as a **Operations Research Scientist**.
 #### 💻 I'm currently working on: *machine learning control, technology transfer, computer vision, data pipelines, deployment of AI solutions, optimization problems*.
-#### 📝 I regularly: **read scientific papers and articles on machine learning and research operations**; **prototype new systems to deal with real problems**.
-#### 🌱 I'm looking to **collaborate on research-innovative projects**.
-#### 💬 Ask me about: **solutions to impact reality**, **making processes more efficient through ML and optimization algorithms**, **apply machine learning and optimization algorithms to science and engineering**.
-#### 📄 Know about my experiences: [Resume](DavideGrimaldiCV.pdf)
+#### 📝 I regularly: **read scientific papers on ML and OR, prototype new systems, and experiment with new ideas to tackle real-world challenges.**.
+#### 🌱 **I’m passionate about mathematics, building models, running experiments, and turning concepts into working systems.**.
+#### 💬 Ask me about: **Ask me about: impact-driven solutions, process optimization with ML and OR, and how to bridge research and applied engineering.**.
+#### 📄 My experiences: [Resume](DavideGrimaldiCV.pdf)
 
 ---
 
 ## About Me
+I’m a versatile Machine Learning Engineer with end-to-end expertise in developing AI solutions — from data ingestion and model design to deployment and optimization. I combine a strong background in machine learning, deep learning, optimization, and decision systems with a hands-on approach to building tools that make a real impact.
 
-Versatile Machine Learning Engineer with end-to-end expertise in machine learning solution development, from data ingestion and model building to deployment and optimization. Skilled in machine learning, deep learning, optimization, and data-driven decision systems, with a strong track record in high-impact projects across food production, HoReCa sector, industry, defense, and research.
-* Process Optimization & Solution-Driven: Focused on developing and implementing solutions that enhance efficiency and streamline operations, regardless of domain or scale.
-* Team Collaboration: Collaborated cross-functionally with experts to drive AI product development.
-* Cross-Domain Agility: Successfully applied machine learning methodologies across diverse domains.
-* Effective Research Translation: Bridged academic and applied research by translating models into usable tools.
+But beyond my professional profile, I have a genuine passion for mathematics, modeling, and experimentation. I love testing ideas, implementing algorithms, and exploring how theory can evolve into practical solutions.
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="davide-grimaldi-1b2272247" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://it.linkedin.com/in/davide-grimaldi-1b2272247?trk=profile-badge">Linkedin</a></div>
-              
+This GitHub is a reflection of that passion:
+
+🚀 Projects & Side Projects – AI applications, optimization systems, and real-world problem-solving.
+
+📄 Paper Implementations – Reproducing and extending research to better understand and apply new methods.
+
+🔬 Experiments – Trying out ideas, testing assumptions, and learning by building.
+
+🛠️ Past Works – A mix of research-driven and applied contributions across industries.
+
+Always looking to collaborate on innovative research and projects that push the boundary between theory and practice.
+
+[![LinkedIn](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg)](https://www.linkedin.com/in/davide-grimaldi-1b2272247)
+
 ---
 
 ## GitHub Stats
