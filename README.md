@@ -6,7 +6,7 @@
 
 #### 🔭 I'm a **Machine Learning Engineer** and as a **Operations Research Scientist**.
 #### 💻 I'm currently working on: *machine learning control, technology transfer, computer vision, data pipelines, deployment of AI solutions, optimization problems*.
-#### 📝 I regularly: **read scientific papers on ML and OR, prototype new systems, and experiment with new ideas to tackle real-world challenges.**.
+#### 📝 I regularly: **read scientific papers on ML and OR, prototype new systems, and experiment with new ideas to tackle real-world challenges.**
 #### 🌱 **I’m passionate about mathematics, building models, running experiments, and turning concepts into working systems.**
 #### 💬 Ask me about: **Ask me about: impact-driven solutions, process optimization with ML and OR, and how to bridge research and applied engineering.**.
 #### 📄 My experiences: [Resume](DavideGrimaldiCV.pdf)
