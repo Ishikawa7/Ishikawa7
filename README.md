@@ -4,7 +4,7 @@
   <img align="right" top="1000" height="400" width="500" alt="GIF" src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/ANN-Graph.gif">
 </p>
 
-#### 🔭 I'm a **Machine Learning Engineer** and as a **Operations Research Scientist**.
+#### 🔭 I'm a **Machine Learning Engineer** and a **Operations Research Scientist**.
 #### 📝 I regularly **read scientific papers on ML and OR, prototype new systems, and experiment with new ideas to tackle real-world challenges**.
 #### 🌱 **I’m passionate about mathematics, building models, running experiments, and turning concepts into working systems**.
 #### 💬 **Ask me about: impact-driven solutions, process optimization with ML and OR, and how to bridge research and applied engineering**.
