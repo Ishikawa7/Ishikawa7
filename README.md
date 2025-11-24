@@ -27,7 +27,7 @@ This GitHub is a reflection of that passion:
 
 🛠️ Past Works – A mix of research-driven and applied contributions across industries.
 
-Always looking to collaborate on innovative research and projects that push the boundary between theory and practice. 
+Always looking to collaborate on innovative research and projects that push the boundary between theory and practice.
 
 [![LinkedIn](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg)](https://www.linkedin.com/in/davide-grimaldi-1b2272247)
 
