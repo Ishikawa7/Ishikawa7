@@ -15,7 +15,7 @@
 ## About Me
 I’m a versatile Machine Learning Engineer with end-to-end expertise in developing AI solutions — from data ingestion and model design to deployment and optimization. I combine a strong background in machine learning, deep learning, optimization, and decision systems with a hands-on approach to building tools that make a real impact.
 
-But beyond my professional profile, I have a genuine passion for mathematics, modeling, and experimentation. I love testing ideas, implementing algorithms, and exploring how theory can evolve into practical solutions.
+But beyond my professional profile, I have a genuine passion for mathematics, modeling, and experimentation. I love testing ideas, implementing algorithms, and exploring how theory can evolve into practical solutions. 
 
 This GitHub is a reflection of that passion:
 
