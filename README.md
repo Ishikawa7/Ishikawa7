@@ -9,7 +9,7 @@
 #### 🌱 **I’m passionate about mathematics, building models, running experiments, and turning concepts into working systems**.
 #### 💬 **Ask me about: impact-driven solutions, process optimization with ML and OR, and how to bridge research and applied engineering**.
 #### 📄 My experiences: [CV](DavideGrimaldiCV.pdf)
-
+ 
 ---
 
 ## About Me
